@@ -25,13 +25,13 @@ class NCERTTextCleaner:
         
         # Step 2: Remove any non-alphanumeric characters except spaces (remove special characters, punctuation, etc.)
         # Keep only alphabets, digits, and spaces
-        text = re.sub(r'[^a-zA-Z0-9\s]', '', text)  # Remove any special characters except for spaces
+        # text = re.sub(r'[^a-zA-Z0-9\s]', '', text)  # Remove any special characters except for spaces
 
         # Step 3: Replace multiple whitespaces with a single space
         text = re.sub(r'\s+', ' ', text)
 
         # Step 4: Remove excessive newlines, tabs, and other irrelevant whitespace
-        text = re.sub(r'\n+', '\n', text)  # Replace multiple newlines with one
+        # text = re.sub(r'\n+', '\n', text)  # Replace multiple newlines with one
         text = text.strip()  # Remove leading and trailing spaces/newlines
 
         return text
@@ -88,8 +88,8 @@ class NCERTTextCleaner:
 # Driver Code
 if __name__ == "__main__":
     # Specify the directories for the text files and the output cleaned text directory
-    input_txt_directory = 'NCERT_downloads/extracted_texts'  # Path where your extracted .txt files are located
-    output_cleaned_directory = 'NCERT_downloads/cleaned_texts'  # Path where you want the cleaned .txt files saved
+    input_txt_directory = 'Extract text'  # Path where your extracted .txt files are located
+    output_cleaned_directory = 'Extract text'  # Path where you want the cleaned .txt files saved
 
     # Initialize the NCERTTextCleaner class
     cleaner = NCERTTextCleaner(input_txt_directory, output_cleaned_directory)

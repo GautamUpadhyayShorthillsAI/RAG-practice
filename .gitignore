@@ -1,3 +1,5 @@
 myenv/
 .vscode/
 NCERT_downloads/
+chunks_output/
+*.env
