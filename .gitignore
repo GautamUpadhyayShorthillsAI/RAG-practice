@@ -1,5 +1,8 @@
 myenv/
 .vscode/
 NCERT_downloads/
-chunks_output/
+.chunks_output/
 *.env
+*.csv
+data/
+__pycache__/
