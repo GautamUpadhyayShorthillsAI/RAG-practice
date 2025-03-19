@@ -143,14 +143,16 @@ if query:
 
 ---
 
-## 7. Testing the RAG Chatbot
-**File:** `test_chatbot.py`
-Ensures that:
-- The chatbot correctly retrieves relevant responses. 
-- FAISS indexing and retrieval are working as expected. 
+### 7. Testing the RAG Chatbot  
+To evaluate the chatbot’s responses, we use **BERTScore** and **BLEU Score**.  
 
-### Usage:
+- **BERTScore**: Measures **semantic similarity** using a pretrained BERT model.  
+- **BLEU Score**: Checks **n-gram overlap** for lexical accuracy.  
 
-#### Example Test Cases:
-```python
-# Add test cases for chatbot response validation
+#### **Why Both?**  
+| Metric    | Strengths | Weaknesses |
+|-----------|----------|------------|
+| **BERT Score** | Captures **meaning** even if phrased differently | Slower, requires pretrained model |
+| **BLEU Score** | Checks **word accuracy**, fast & simple | Fails with synonyms & paraphrased answers |
+
+These metrics help fine-tune the chatbot for **better scientific accuracy and relevance**. 🚀  
