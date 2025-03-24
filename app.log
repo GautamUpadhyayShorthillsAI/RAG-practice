@@ -1,0 +1,55 @@
+2025-03-24 14:21:54,844 - INFO - Starting FAISS index building process...
+2025-03-24 14:21:55,032 - INFO - FAISS index loaded successfully.
+2025-03-24 14:22:58,595 - INFO - FAISS index loaded successfully.
+2025-03-24 14:22:58,607 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:01,661 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:01,680 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:01,783 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:01,798 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:01,801 - INFO - Generating embedding for a query.
+2025-03-24 14:23:03,212 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-24 14:23:03,215 - INFO - Searching FAISS index with k=5
+2025-03-24 14:23:03,219 - INFO - Querying LLM for response.
+2025-03-24 14:23:08,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-24 14:23:17,069 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:17,081 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:17,083 - INFO - Generating embedding for a query.
+2025-03-24 14:23:18,210 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:18,221 - INFO - FAISS index loaded successfully.
+2025-03-24 14:23:18,223 - INFO - Generating embedding for a query.
+2025-03-24 14:23:18,231 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-24 14:23:18,233 - INFO - Searching FAISS index with k=5
+2025-03-24 14:23:18,235 - INFO - Querying LLM for response.
+2025-03-24 14:23:19,165 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-24 14:23:19,167 - INFO - Searching FAISS index with k=5
+2025-03-24 14:23:19,169 - INFO - Querying LLM for response.
+2025-03-24 14:23:22,592 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-24 14:23:22,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-24 14:25:23,500 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:23,513 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:26,256 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:26,272 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:26,423 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:26,434 - INFO - FAISS index loaded successfully.
+2025-03-24 14:25:26,436 - INFO - Generating embedding for a query.
+2025-03-24 14:25:27,120 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-24 14:25:27,123 - INFO - Searching FAISS index with k=5
+2025-03-24 14:25:27,126 - INFO - Querying LLM for response.
+2025-03-24 14:25:31,830 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-24 14:28:01,241 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:01,253 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:06,996 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:07,016 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:17,137 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:17,153 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:17,303 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:17,315 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:17,319 - INFO - Generating embedding for a query.
+2025-03-24 14:28:18,154 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-24 14:28:18,157 - INFO - Searching FAISS index with k=5
+2025-03-24 14:28:18,159 - INFO - Querying LLM for response.
+2025-03-24 14:28:21,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-24 14:28:27,095 - INFO - FAISS index loaded successfully.
+2025-03-24 14:28:27,105 - INFO - FAISS index loaded successfully.
+2025-03-24 16:57:52,567 - INFO - FAISS index loaded successfully.
+2025-03-24 16:57:52,581 - INFO - FAISS index loaded successfully.
