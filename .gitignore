@@ -3,7 +3,6 @@ myenv/
 NCERT_downloads/
 .chunks_output/
 *.env
-*.csv
 data/
 __pycache__/
 *.log
