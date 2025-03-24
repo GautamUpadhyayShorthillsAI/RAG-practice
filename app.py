@@ -1,5 +1,17 @@
 import streamlit as st
+import logging
 from main import FAISSRAG  # Import the FAISSRAG class
+
+# Setup logging for queries
+query_log_file = "query.log"
+logging.basicConfig(
+    filename=query_log_file,
+    level=logging.INFO,
+    format="%(asctime)s - QUERY: %(message)s",
+    filemode="w"
+)
+query_logger = logging.getLogger("query_logger")
+query_logger.propagate = False  # Prevent duplicate logs
 
 # Initialize FAISS RAG
 rag = FAISSRAG()
@@ -29,14 +41,12 @@ if st.button("🔎 Search"):
             # Retrieve relevant chunks
             retrieved_chunks = [metadata_list[idx]["text"] for idx in similar_indices if 0 <= idx < len(metadata_list)]
 
-            # Display retrieved chunks
-            # st.subheader("📚 Retrieved Chunks")
-            # for i, chunk in enumerate(retrieved_chunks, start=1):
-            #     st.markdown(f"**Chunk {i}:** {chunk}")
-
             # Get answer from LLM
             final_answer = rag.query_llm(user_query, retrieved_chunks)
-        
+
         # Display the final AI-generated answer
         st.subheader("💡 AI-Generated Answer")
         st.write(final_answer)
+
+        # Log the user query and AI response
+        query_logger.info(f"User Query: {user_query} | AI Response: {final_answer}")

@@ -6,3 +6,4 @@ NCERT_downloads/
 *.csv
 data/
 __pycache__/
+*.log
