@@ -53,3 +53,935 @@
 2025-03-24 14:28:27,105 - INFO - FAISS index loaded successfully.
 2025-03-24 16:57:52,567 - INFO - FAISS index loaded successfully.
 2025-03-24 16:57:52,581 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:27,054 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:27,068 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:39,395 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:39,410 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:39,562 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:39,573 - INFO - FAISS index loaded successfully.
+2025-03-25 12:13:39,576 - INFO - Generating embedding for a query.
+2025-03-25 12:13:41,021 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:13:41,024 - INFO - Searching FAISS index with k=5
+2025-03-25 12:13:41,026 - INFO - Querying LLM for response.
+2025-03-25 12:13:44,709 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:14:25,300 - INFO - FAISS index loaded successfully.
+2025-03-25 12:14:25,313 - INFO - FAISS index loaded successfully.
+2025-03-25 12:20:34,395 - INFO - FAISS index loaded successfully.
+2025-03-25 12:21:06,885 - INFO - FAISS index loaded successfully.
+2025-03-25 12:21:06,886 - INFO - Generating embedding for a query.
+2025-03-25 12:21:08,110 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:21:08,111 - INFO - Searching FAISS index with k=5
+2025-03-25 12:21:08,112 - INFO - Querying LLM for response.
+2025-03-25 12:23:31,889 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:31,901 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:34,030 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:34,045 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:34,735 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:34,745 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:34,748 - INFO - Generating embedding for a query.
+2025-03-25 12:23:36,374 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:23:36,377 - INFO - Searching FAISS index with k=5
+2025-03-25 12:23:41,476 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:23:53,345 - INFO - FAISS index loaded successfully.
+2025-03-25 12:23:53,346 - INFO - Generating embedding for a query.
+2025-03-25 12:23:54,687 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:23:54,690 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:03,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:03,194 - INFO - Generating embedding for a query.
+2025-03-25 12:24:03,591 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:03,594 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:07,072 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:07,079 - INFO - Generating embedding for a query.
+2025-03-25 12:24:07,754 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:07,756 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:11,229 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:11,231 - INFO - Generating embedding for a query.
+2025-03-25 12:24:12,195 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:12,197 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:18,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:18,954 - INFO - Generating embedding for a query.
+2025-03-25 12:24:19,772 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:19,773 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:30,826 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:30,828 - INFO - Generating embedding for a query.
+2025-03-25 12:24:32,058 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:32,059 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:44,759 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:44,760 - INFO - Generating embedding for a query.
+2025-03-25 12:24:45,471 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:45,473 - INFO - Searching FAISS index with k=5
+2025-03-25 12:24:57,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:24:57,569 - INFO - Generating embedding for a query.
+2025-03-25 12:24:58,065 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:24:58,067 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:01,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:01,558 - INFO - Generating embedding for a query.
+2025-03-25 12:25:02,059 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:02,060 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:07,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:07,486 - INFO - Generating embedding for a query.
+2025-03-25 12:25:08,301 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:08,303 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:26,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:26,429 - INFO - Generating embedding for a query.
+2025-03-25 12:25:26,950 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:26,952 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:39,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:39,845 - INFO - Generating embedding for a query.
+2025-03-25 12:25:40,262 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:40,264 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:52,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:52,131 - INFO - Generating embedding for a query.
+2025-03-25 12:25:55,204 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:55,205 - INFO - Searching FAISS index with k=5
+2025-03-25 12:25:58,888 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:25:58,892 - INFO - Generating embedding for a query.
+2025-03-25 12:25:59,908 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:25:59,912 - INFO - Searching FAISS index with k=5
+2025-03-25 12:26:24,692 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:26:24,694 - INFO - Generating embedding for a query.
+2025-03-25 12:26:25,105 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:26:25,107 - INFO - Searching FAISS index with k=5
+2025-03-25 12:26:36,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:26:36,061 - INFO - Generating embedding for a query.
+2025-03-25 12:26:36,567 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:26:36,569 - INFO - Searching FAISS index with k=5
+2025-03-25 12:26:46,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:26:46,503 - INFO - Generating embedding for a query.
+2025-03-25 12:26:47,527 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:26:47,529 - INFO - Searching FAISS index with k=5
+2025-03-25 12:26:56,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:26:56,952 - INFO - Generating embedding for a query.
+2025-03-25 12:26:57,459 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:26:57,460 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:01,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:01,555 - INFO - Generating embedding for a query.
+2025-03-25 12:27:01,968 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:01,968 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:07,297 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:07,298 - INFO - Generating embedding for a query.
+2025-03-25 12:27:07,786 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:07,787 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:17,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:17,739 - INFO - Generating embedding for a query.
+2025-03-25 12:27:18,246 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:18,247 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:29,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:29,101 - INFO - Generating embedding for a query.
+2025-03-25 12:27:29,613 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:29,614 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:41,488 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:41,489 - INFO - Generating embedding for a query.
+2025-03-25 12:27:42,004 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:42,005 - INFO - Searching FAISS index with k=5
+2025-03-25 12:27:49,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:27:49,582 - INFO - Generating embedding for a query.
+2025-03-25 12:27:50,089 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:27:50,091 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:05,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:05,453 - INFO - Generating embedding for a query.
+2025-03-25 12:28:06,179 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:06,180 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:12,834 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:12,835 - INFO - Generating embedding for a query.
+2025-03-25 12:28:13,232 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:13,234 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:14,362 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:14,363 - INFO - Generating embedding for a query.
+2025-03-25 12:28:14,778 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:14,781 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:28,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:28,903 - INFO - Generating embedding for a query.
+2025-03-25 12:28:29,934 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:29,935 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:41,392 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:41,396 - INFO - Generating embedding for a query.
+2025-03-25 12:28:42,212 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:42,213 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:47,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:47,131 - INFO - Generating embedding for a query.
+2025-03-25 12:28:47,639 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:47,640 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:54,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:54,709 - INFO - Generating embedding for a query.
+2025-03-25 12:28:55,231 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:28:55,232 - INFO - Searching FAISS index with k=5
+2025-03-25 12:28:59,723 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:28:59,728 - INFO - Generating embedding for a query.
+2025-03-25 12:29:00,144 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:00,145 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:16,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:16,626 - INFO - Generating embedding for a query.
+2025-03-25 12:29:17,131 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:17,132 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:18,567 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:18,571 - INFO - Generating embedding for a query.
+2025-03-25 12:29:19,080 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:19,081 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:24,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:24,618 - INFO - Generating embedding for a query.
+2025-03-25 12:29:25,020 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:25,020 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:37,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:37,409 - INFO - Generating embedding for a query.
+2025-03-25 12:29:38,024 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:38,025 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:41,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:41,199 - INFO - Generating embedding for a query.
+2025-03-25 12:29:41,707 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:41,708 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:53,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:53,077 - INFO - Generating embedding for a query.
+2025-03-25 12:29:53,487 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:53,488 - INFO - Searching FAISS index with k=5
+2025-03-25 12:29:58,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:29:59,120 - INFO - Generating embedding for a query.
+2025-03-25 12:29:59,632 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:29:59,632 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:09,565 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:09,568 - INFO - Generating embedding for a query.
+2025-03-25 12:30:10,397 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:10,398 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:20,109 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:20,117 - INFO - Generating embedding for a query.
+2025-03-25 12:30:20,829 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:20,830 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:25,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:25,131 - INFO - Generating embedding for a query.
+2025-03-25 12:30:25,539 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:25,540 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:33,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:33,017 - INFO - Generating embedding for a query.
+2025-03-25 12:30:33,424 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:33,425 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:36,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:36,600 - INFO - Generating embedding for a query.
+2025-03-25 12:30:37,009 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:37,010 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:39,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:39,062 - INFO - Generating embedding for a query.
+2025-03-25 12:30:39,571 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:39,572 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:42,739 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:42,740 - INFO - Generating embedding for a query.
+2025-03-25 12:30:43,356 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:43,357 - INFO - Searching FAISS index with k=5
+2025-03-25 12:30:54,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:30:54,440 - INFO - Generating embedding for a query.
+2025-03-25 12:30:54,847 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:30:54,882 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:04,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:04,755 - INFO - Generating embedding for a query.
+2025-03-25 12:31:05,264 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:05,265 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:06,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:06,800 - INFO - Generating embedding for a query.
+2025-03-25 12:31:07,417 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:07,418 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:14,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:14,683 - INFO - Generating embedding for a query.
+2025-03-25 12:31:15,410 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:15,411 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:19,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:19,296 - INFO - Generating embedding for a query.
+2025-03-25 12:31:19,802 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:19,803 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:24,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:24,109 - INFO - Generating embedding for a query.
+2025-03-25 12:31:24,617 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:24,618 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:25,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:25,948 - INFO - Generating embedding for a query.
+2025-03-25 12:31:26,457 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:26,458 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:27,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:27,789 - INFO - Generating embedding for a query.
+2025-03-25 12:31:28,459 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:28,460 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:30,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:30,348 - INFO - Generating embedding for a query.
+2025-03-25 12:31:30,764 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:30,765 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:36,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:36,799 - INFO - Generating embedding for a query.
+2025-03-25 12:31:37,412 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:37,413 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:43,354 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:43,357 - INFO - Generating embedding for a query.
+2025-03-25 12:31:43,879 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:43,880 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:49,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:49,907 - INFO - Generating embedding for a query.
+2025-03-25 12:31:50,476 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:50,477 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:52,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:52,168 - INFO - Generating embedding for a query.
+2025-03-25 12:31:52,572 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:52,573 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:56,456 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:56,457 - INFO - Generating embedding for a query.
+2025-03-25 12:31:56,865 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:31:56,870 - INFO - Searching FAISS index with k=5
+2025-03-25 12:31:59,736 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:31:59,737 - INFO - Generating embedding for a query.
+2025-03-25 12:32:00,248 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:00,249 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:10,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:10,177 - INFO - Generating embedding for a query.
+2025-03-25 12:32:10,589 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:10,590 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:13,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:13,562 - INFO - Generating embedding for a query.
+2025-03-25 12:32:13,965 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:13,966 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:17,651 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:17,651 - INFO - Generating embedding for a query.
+2025-03-25 12:32:18,167 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:18,174 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:24,306 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:24,308 - INFO - Generating embedding for a query.
+2025-03-25 12:32:24,822 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:24,824 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:31,780 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:31,785 - INFO - Generating embedding for a query.
+2025-03-25 12:32:32,293 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:32,294 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:45,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:45,501 - INFO - Generating embedding for a query.
+2025-03-25 12:32:46,738 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:46,739 - INFO - Searching FAISS index with k=5
+2025-03-25 12:32:57,787 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:32:57,790 - INFO - Generating embedding for a query.
+2025-03-25 12:32:58,311 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:32:58,312 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:03,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:03,420 - INFO - Generating embedding for a query.
+2025-03-25 12:33:03,837 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:03,838 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:16,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:16,526 - INFO - Generating embedding for a query.
+2025-03-25 12:33:16,934 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:16,935 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:27,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:27,897 - INFO - Generating embedding for a query.
+2025-03-25 12:33:28,924 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:28,925 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:39,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:39,566 - INFO - Generating embedding for a query.
+2025-03-25 12:33:40,067 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:40,068 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:48,369 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:48,372 - INFO - Generating embedding for a query.
+2025-03-25 12:33:48,884 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:48,887 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:52,673 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:52,674 - INFO - Generating embedding for a query.
+2025-03-25 12:33:53,185 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:53,186 - INFO - Searching FAISS index with k=5
+2025-03-25 12:33:58,808 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:33:58,815 - INFO - Generating embedding for a query.
+2025-03-25 12:33:59,331 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:33:59,332 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:02,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:02,381 - INFO - Generating embedding for a query.
+2025-03-25 12:34:02,846 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:02,846 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:07,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:07,217 - INFO - Generating embedding for a query.
+2025-03-25 12:34:07,724 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:07,725 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:19,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:19,716 - INFO - Generating embedding for a query.
+2025-03-25 12:34:20,316 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:20,319 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:29,944 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:29,958 - INFO - Generating embedding for a query.
+2025-03-25 12:34:30,452 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:30,453 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:33,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:33,527 - INFO - Generating embedding for a query.
+2025-03-25 12:34:33,940 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:33,941 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:41,715 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:41,719 - INFO - Generating embedding for a query.
+2025-03-25 12:34:42,228 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:42,229 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:49,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:49,911 - INFO - Generating embedding for a query.
+2025-03-25 12:34:50,317 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:50,318 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:54,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:54,519 - INFO - Generating embedding for a query.
+2025-03-25 12:34:55,030 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:55,031 - INFO - Searching FAISS index with k=5
+2025-03-25 12:34:59,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:34:59,034 - INFO - Generating embedding for a query.
+2025-03-25 12:34:59,536 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:34:59,537 - INFO - Searching FAISS index with k=5
+2025-03-25 12:35:07,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:35:07,315 - INFO - Generating embedding for a query.
+2025-03-25 12:35:07,838 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:35:07,839 - INFO - Searching FAISS index with k=5
+2025-03-25 12:35:12,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:35:12,341 - INFO - Generating embedding for a query.
+2025-03-25 12:35:12,859 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:35:12,860 - INFO - Searching FAISS index with k=5
+2025-03-25 12:35:18,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:35:18,272 - INFO - Generating embedding for a query.
+2025-03-25 12:35:18,786 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:35:18,787 - INFO - Searching FAISS index with k=5
+2025-03-25 12:35:29,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:35:29,241 - INFO - Generating embedding for a query.
+2025-03-25 12:35:29,639 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:35:29,640 - INFO - Searching FAISS index with k=5
+2025-03-25 12:36:06,807 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:36:06,808 - INFO - Generating embedding for a query.
+2025-03-25 12:36:07,321 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:36:07,323 - INFO - Searching FAISS index with k=5
+2025-03-25 12:36:15,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:36:15,614 - INFO - Generating embedding for a query.
+2025-03-25 12:36:16,029 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:36:16,029 - INFO - Searching FAISS index with k=5
+2025-03-25 12:36:33,753 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:36:33,768 - INFO - Generating embedding for a query.
+2025-03-25 12:36:34,252 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:36:34,253 - INFO - Searching FAISS index with k=5
+2025-03-25 12:36:43,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:36:43,981 - INFO - Generating embedding for a query.
+2025-03-25 12:36:44,392 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:36:44,399 - INFO - Searching FAISS index with k=5
+2025-03-25 12:36:54,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:36:54,638 - INFO - Generating embedding for a query.
+2025-03-25 12:36:55,144 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:36:55,145 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:03,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:03,957 - INFO - Generating embedding for a query.
+2025-03-25 12:37:05,483 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:05,484 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:13,979 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:13,986 - INFO - Generating embedding for a query.
+2025-03-25 12:37:14,498 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:14,499 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:19,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:19,475 - INFO - Generating embedding for a query.
+2025-03-25 12:37:19,928 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:19,930 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:23,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:23,912 - INFO - Generating embedding for a query.
+2025-03-25 12:37:24,321 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:24,322 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:31,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:31,698 - INFO - Generating embedding for a query.
+2025-03-25 12:37:32,110 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:32,111 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:37,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:37,327 - INFO - Generating embedding for a query.
+2025-03-25 12:37:37,943 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:37,944 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:42,155 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:42,163 - INFO - Generating embedding for a query.
+2025-03-25 12:37:42,551 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:42,552 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:52,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:52,283 - INFO - Generating embedding for a query.
+2025-03-25 12:37:52,795 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:52,796 - INFO - Searching FAISS index with k=5
+2025-03-25 12:37:57,703 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:37:57,707 - INFO - Generating embedding for a query.
+2025-03-25 12:37:58,216 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:37:58,218 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:05,181 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:05,184 - INFO - Generating embedding for a query.
+2025-03-25 12:38:05,809 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:05,810 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:17,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:17,097 - INFO - Generating embedding for a query.
+2025-03-25 12:38:17,539 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:17,543 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:23,511 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:23,512 - INFO - Generating embedding for a query.
+2025-03-25 12:38:24,020 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:24,021 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:28,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:28,321 - INFO - Generating embedding for a query.
+2025-03-25 12:38:28,736 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:28,737 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:38,867 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:38,871 - INFO - Generating embedding for a query.
+2025-03-25 12:38:39,379 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:39,381 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:52,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:53,004 - INFO - Generating embedding for a query.
+2025-03-25 12:38:53,616 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:53,617 - INFO - Searching FAISS index with k=5
+2025-03-25 12:38:58,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:38:58,017 - INFO - Generating embedding for a query.
+2025-03-25 12:38:58,425 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:38:58,426 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:05,904 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:05,905 - INFO - Generating embedding for a query.
+2025-03-25 12:39:06,413 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:06,618 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:17,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:17,476 - INFO - Generating embedding for a query.
+2025-03-25 12:39:18,012 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:18,013 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:23,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:23,930 - INFO - Generating embedding for a query.
+2025-03-25 12:39:24,441 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:24,442 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:33,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:33,040 - INFO - Generating embedding for a query.
+2025-03-25 12:39:33,555 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:33,556 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:40,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:40,013 - INFO - Generating embedding for a query.
+2025-03-25 12:39:40,515 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:40,516 - INFO - Searching FAISS index with k=5
+2025-03-25 12:39:48,909 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:39:48,910 - INFO - Generating embedding for a query.
+2025-03-25 12:39:49,420 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:39:49,421 - INFO - Searching FAISS index with k=5
+2025-03-25 12:40:12,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:40:12,154 - INFO - Generating embedding for a query.
+2025-03-25 12:40:12,686 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:40:12,687 - INFO - Searching FAISS index with k=5
+2025-03-25 12:40:37,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:40:37,654 - INFO - Generating embedding for a query.
+2025-03-25 12:40:38,166 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:40:38,167 - INFO - Searching FAISS index with k=5
+2025-03-25 12:40:49,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:40:49,428 - INFO - Generating embedding for a query.
+2025-03-25 12:40:49,938 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:40:49,940 - INFO - Searching FAISS index with k=5
+2025-03-25 12:40:56,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:40:56,245 - INFO - Generating embedding for a query.
+2025-03-25 12:40:56,697 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:40:56,698 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:06,425 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:06,426 - INFO - Generating embedding for a query.
+2025-03-25 12:41:06,838 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:06,839 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:08,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:08,576 - INFO - Generating embedding for a query.
+2025-03-25 12:41:08,988 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:08,989 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:18,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:18,658 - INFO - Generating embedding for a query.
+2025-03-25 12:41:19,236 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:19,237 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:25,062 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:25,063 - INFO - Generating embedding for a query.
+2025-03-25 12:41:25,784 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:25,785 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:48,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:48,922 - INFO - Generating embedding for a query.
+2025-03-25 12:41:50,973 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:50,974 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:53,939 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:53,940 - INFO - Generating embedding for a query.
+2025-03-25 12:41:54,861 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:41:54,862 - INFO - Searching FAISS index with k=5
+2025-03-25 12:41:59,468 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:41:59,474 - INFO - Generating embedding for a query.
+2025-03-25 12:42:00,598 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:00,599 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:06,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:06,476 - INFO - Generating embedding for a query.
+2025-03-25 12:42:07,046 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:07,047 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:13,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:13,089 - INFO - Generating embedding for a query.
+2025-03-25 12:42:13,600 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:13,601 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:23,328 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:23,329 - INFO - Generating embedding for a query.
+2025-03-25 12:42:24,044 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:24,045 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:31,418 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:31,427 - INFO - Generating embedding for a query.
+2025-03-25 12:42:31,930 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:31,931 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:37,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:37,665 - INFO - Generating embedding for a query.
+2025-03-25 12:42:38,073 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:38,074 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:41,456 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:41,457 - INFO - Generating embedding for a query.
+2025-03-25 12:42:41,876 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:41,877 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:51,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:51,079 - INFO - Generating embedding for a query.
+2025-03-25 12:42:51,696 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:51,697 - INFO - Searching FAISS index with k=5
+2025-03-25 12:42:55,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:42:55,485 - INFO - Generating embedding for a query.
+2025-03-25 12:42:56,000 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:42:56,001 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:01,219 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:01,226 - INFO - Generating embedding for a query.
+2025-03-25 12:43:01,785 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:01,786 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:15,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:15,965 - INFO - Generating embedding for a query.
+2025-03-25 12:43:16,484 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:16,485 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:23,235 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:23,243 - INFO - Generating embedding for a query.
+2025-03-25 12:43:24,154 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:24,154 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:30,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:30,321 - INFO - Generating embedding for a query.
+2025-03-25 12:43:30,912 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:30,913 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:37,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:37,368 - INFO - Generating embedding for a query.
+2025-03-25 12:43:38,183 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:38,183 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:45,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:45,664 - INFO - Generating embedding for a query.
+2025-03-25 12:43:46,071 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:46,071 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:51,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:51,884 - INFO - Generating embedding for a query.
+2025-03-25 12:43:52,416 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:52,417 - INFO - Searching FAISS index with k=5
+2025-03-25 12:43:58,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:43:58,877 - INFO - Generating embedding for a query.
+2025-03-25 12:43:59,277 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:43:59,278 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:03,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:03,888 - INFO - Generating embedding for a query.
+2025-03-25 12:44:04,397 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:04,399 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:11,258 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:11,259 - INFO - Generating embedding for a query.
+2025-03-25 12:44:11,770 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:11,771 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:25,390 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:25,391 - INFO - Generating embedding for a query.
+2025-03-25 12:44:25,901 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:26,209 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:32,048 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:32,052 - INFO - Generating embedding for a query.
+2025-03-25 12:44:32,468 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:32,472 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:36,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:36,757 - INFO - Generating embedding for a query.
+2025-03-25 12:44:37,274 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:37,285 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:45,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:45,987 - INFO - Generating embedding for a query.
+2025-03-25 12:44:47,015 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:47,026 - INFO - Searching FAISS index with k=5
+2025-03-25 12:44:54,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:44:54,680 - INFO - Generating embedding for a query.
+2025-03-25 12:44:55,192 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:44:55,193 - INFO - Searching FAISS index with k=5
+2025-03-25 12:45:09,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:45:09,833 - INFO - Generating embedding for a query.
+2025-03-25 12:45:10,344 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:45:10,344 - INFO - Searching FAISS index with k=5
+2025-03-25 12:45:20,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:45:20,175 - INFO - Generating embedding for a query.
+2025-03-25 12:45:20,593 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:45:20,594 - INFO - Searching FAISS index with k=5
+2025-03-25 12:45:23,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:45:23,964 - INFO - Generating embedding for a query.
+2025-03-25 12:45:24,491 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:45:24,492 - INFO - Searching FAISS index with k=5
+2025-03-25 12:45:43,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:45:43,318 - INFO - Generating embedding for a query.
+2025-03-25 12:45:43,829 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:45:43,830 - INFO - Searching FAISS index with k=5
+2025-03-25 12:45:48,437 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:45:48,438 - INFO - Generating embedding for a query.
+2025-03-25 12:45:48,952 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:45:48,953 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:05,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:05,029 - INFO - Generating embedding for a query.
+2025-03-25 12:46:05,538 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:05,539 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:18,440 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:18,441 - INFO - Generating embedding for a query.
+2025-03-25 12:46:18,850 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:18,853 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:23,969 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:23,970 - INFO - Generating embedding for a query.
+2025-03-25 12:46:24,482 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:24,483 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:34,316 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:34,320 - INFO - Generating embedding for a query.
+2025-03-25 12:46:34,735 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:34,736 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:46,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:46,503 - INFO - Generating embedding for a query.
+2025-03-25 12:46:47,010 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:47,011 - INFO - Searching FAISS index with k=5
+2025-03-25 12:46:56,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:46:56,641 - INFO - Generating embedding for a query.
+2025-03-25 12:46:57,151 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:46:57,152 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:02,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:02,679 - INFO - Generating embedding for a query.
+2025-03-25 12:47:03,190 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:03,191 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:08,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:08,529 - INFO - Generating embedding for a query.
+2025-03-25 12:47:09,030 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:09,031 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:23,056 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:23,057 - INFO - Generating embedding for a query.
+2025-03-25 12:47:23,568 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:23,569 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:28,994 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:28,995 - INFO - Generating embedding for a query.
+2025-03-25 12:47:29,609 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:29,611 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:34,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:34,935 - INFO - Generating embedding for a query.
+2025-03-25 12:47:35,347 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:35,348 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:43,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:43,770 - INFO - Generating embedding for a query.
+2025-03-25 12:47:44,260 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:44,261 - INFO - Searching FAISS index with k=5
+2025-03-25 12:47:53,268 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:47:53,272 - INFO - Generating embedding for a query.
+2025-03-25 12:47:54,084 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:47:54,085 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:00,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:00,434 - INFO - Generating embedding for a query.
+2025-03-25 12:48:00,945 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:00,946 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:05,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:05,455 - INFO - Generating embedding for a query.
+2025-03-25 12:48:05,861 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:05,862 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:12,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:12,109 - INFO - Generating embedding for a query.
+2025-03-25 12:48:12,620 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:12,621 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:18,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:18,871 - INFO - Generating embedding for a query.
+2025-03-25 12:48:19,280 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:19,281 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:23,359 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:23,362 - INFO - Generating embedding for a query.
+2025-03-25 12:48:23,797 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:23,798 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:33,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:33,922 - INFO - Generating embedding for a query.
+2025-03-25 12:48:34,334 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:34,334 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:40,168 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:40,171 - INFO - Generating embedding for a query.
+2025-03-25 12:48:40,680 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:40,681 - INFO - Searching FAISS index with k=5
+2025-03-25 12:48:46,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:48:46,626 - INFO - Generating embedding for a query.
+2025-03-25 12:48:47,135 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:48:47,136 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:06,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:06,391 - INFO - Generating embedding for a query.
+2025-03-25 12:49:07,106 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:07,107 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:11,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:11,508 - INFO - Generating embedding for a query.
+2025-03-25 12:49:11,914 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:11,915 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:17,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:17,957 - INFO - Generating embedding for a query.
+2025-03-25 12:49:18,468 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:18,469 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:23,282 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:23,285 - INFO - Generating embedding for a query.
+2025-03-25 12:49:25,125 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:25,126 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:30,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:30,250 - INFO - Generating embedding for a query.
+2025-03-25 12:49:30,757 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:30,758 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:34,345 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:34,348 - INFO - Generating embedding for a query.
+2025-03-25 12:49:34,755 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:34,755 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:40,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:40,080 - INFO - Generating embedding for a query.
+2025-03-25 12:49:40,535 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:40,536 - INFO - Searching FAISS index with k=5
+2025-03-25 12:49:52,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:49:52,161 - INFO - Generating embedding for a query.
+2025-03-25 12:49:52,676 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:49:52,677 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:05,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:05,475 - INFO - Generating embedding for a query.
+2025-03-25 12:50:05,885 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:05,886 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:07,111 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:07,112 - INFO - Generating embedding for a query.
+2025-03-25 12:50:07,626 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:07,628 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:15,922 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:15,925 - INFO - Generating embedding for a query.
+2025-03-25 12:50:16,438 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:16,439 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:22,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:22,475 - INFO - Generating embedding for a query.
+2025-03-25 12:50:22,942 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:22,944 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:31,898 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:31,905 - INFO - Generating embedding for a query.
+2025-03-25 12:50:32,407 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:32,408 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:42,823 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:42,830 - INFO - Generating embedding for a query.
+2025-03-25 12:50:43,776 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:43,777 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:47,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:47,998 - INFO - Generating embedding for a query.
+2025-03-25 12:50:48,587 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:48,588 - INFO - Searching FAISS index with k=5
+2025-03-25 12:50:55,402 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:50:55,406 - INFO - Generating embedding for a query.
+2025-03-25 12:50:55,858 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:50:55,859 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:15,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:15,828 - INFO - Generating embedding for a query.
+2025-03-25 12:51:16,364 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:16,364 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:24,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:24,646 - INFO - Generating embedding for a query.
+2025-03-25 12:51:25,146 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:25,147 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:30,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:30,369 - INFO - Generating embedding for a query.
+2025-03-25 12:51:30,892 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:30,893 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:36,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:36,320 - INFO - Generating embedding for a query.
+2025-03-25 12:51:36,720 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:36,721 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:40,817 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:40,818 - INFO - Generating embedding for a query.
+2025-03-25 12:51:41,431 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:41,433 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:51,069 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:51,070 - INFO - Generating embedding for a query.
+2025-03-25 12:51:51,874 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:51,875 - INFO - Searching FAISS index with k=5
+2025-03-25 12:51:57,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:51:57,102 - INFO - Generating embedding for a query.
+2025-03-25 12:51:57,506 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:51:57,508 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:01,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:01,296 - INFO - Generating embedding for a query.
+2025-03-25 12:52:01,810 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:01,811 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:08,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:08,977 - INFO - Generating embedding for a query.
+2025-03-25 12:52:09,590 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:09,591 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:22,288 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:22,291 - INFO - Generating embedding for a query.
+2025-03-25 12:52:22,807 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:22,808 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:46,667 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:46,671 - INFO - Generating embedding for a query.
+2025-03-25 12:52:47,176 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:47,177 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:51,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:51,987 - INFO - Generating embedding for a query.
+2025-03-25 12:52:53,113 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:53,114 - INFO - Searching FAISS index with k=5
+2025-03-25 12:52:58,950 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:52:58,951 - INFO - Generating embedding for a query.
+2025-03-25 12:52:59,462 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:52:59,462 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:11,648 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:11,648 - INFO - Generating embedding for a query.
+2025-03-25 12:53:12,069 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:53:12,070 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:14,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:14,414 - INFO - Generating embedding for a query.
+2025-03-25 12:53:14,928 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:53:14,929 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:20,660 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:20,660 - INFO - Generating embedding for a query.
+2025-03-25 12:53:21,073 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:53:21,074 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:31,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:31,823 - INFO - Generating embedding for a query.
+2025-03-25 12:53:32,238 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:53:32,239 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:38,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:38,693 - INFO - Generating embedding for a query.
+2025-03-25 12:53:39,509 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:53:39,510 - INFO - Searching FAISS index with k=5
+2025-03-25 12:53:57,219 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:53:57,220 - INFO - Generating embedding for a query.
+2025-03-25 12:54:00,502 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:00,503 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:05,824 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:05,828 - INFO - Generating embedding for a query.
+2025-03-25 12:54:06,233 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:06,234 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:11,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:11,152 - INFO - Generating embedding for a query.
+2025-03-25 12:54:12,074 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:12,075 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:16,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:16,884 - INFO - Generating embedding for a query.
+2025-03-25 12:54:17,494 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:17,495 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:19,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:19,032 - INFO - Generating embedding for a query.
+2025-03-25 12:54:19,549 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:19,550 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:36,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:36,097 - INFO - Generating embedding for a query.
+2025-03-25 12:54:39,536 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:39,538 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:44,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:44,642 - INFO - Generating embedding for a query.
+2025-03-25 12:54:45,144 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:45,145 - INFO - Searching FAISS index with k=5
+2025-03-25 12:54:54,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:54:54,365 - INFO - Generating embedding for a query.
+2025-03-25 12:54:54,876 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:54:54,877 - INFO - Searching FAISS index with k=5
+2025-03-25 12:55:00,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:55:00,100 - INFO - Generating embedding for a query.
+2025-03-25 12:55:01,324 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-25 12:55:01,325 - INFO - Searching FAISS index with k=5
+2025-03-25 12:55:08,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-25 12:55:08,596 - INFO - Generating embedding for a query.
+2025-03-25 12:55:08,926 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 12:55:08,927 - INFO - Retrying request to /embeddings in 0.418341 seconds
+2025-03-25 12:55:09,824 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 12:55:09,824 - INFO - Retrying request to /embeddings in 0.857063 seconds
+2025-03-25 12:55:11,257 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 13:15:55,053 - INFO - FAISS index loaded successfully.
+2025-03-25 13:15:55,065 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:05,723 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:05,736 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:05,789 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:05,802 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:05,803 - INFO - Generating embedding for a query.
+2025-03-25 13:16:07,182 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 13:16:07,183 - INFO - Retrying request to /embeddings in 0.432112 seconds
+2025-03-25 13:16:08,204 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 13:16:08,204 - INFO - Retrying request to /embeddings in 0.818547 seconds
+2025-03-25 13:16:10,097 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 13:16:19,335 - INFO - FAISS index loaded successfully.
+2025-03-25 13:16:19,347 - INFO - FAISS index loaded successfully.
+2025-03-25 14:04:10,255 - INFO - FAISS index loaded successfully.
+2025-03-25 14:04:10,262 - INFO - FAISS index loaded successfully.
+2025-03-25 14:04:10,385 - INFO - FAISS index loaded successfully.
+2025-03-25 14:04:10,392 - INFO - FAISS index loaded successfully.
+2025-03-25 14:04:10,395 - INFO - Generating embedding for a query.
+2025-03-25 14:04:16,868 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 14:04:16,869 - INFO - Retrying request to /embeddings in 0.455284 seconds
+2025-03-25 14:04:17,905 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-03-25 14:04:17,905 - INFO - Retrying request to /embeddings in 0.854644 seconds
+2025-03-25 14:04:20,625 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"

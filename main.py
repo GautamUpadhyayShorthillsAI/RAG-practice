@@ -79,26 +79,31 @@ class FAISSRAG:
         return indices[0]
 
     def query_llm(self, query: str, context: list):
-        logger.info("Querying LLM for response.")
-        context_str = "\n\n".join(context)
+    # logger.info("Querying LLM for response.")
+
+    # Convert retrieved context to strings (if dictionaries are present)
+        context_str_list = [str(item) if isinstance(item, dict) else item for item in context]
+        context_str = "\n\n".join(context_str_list)
+
         prompt = f"""
         You are a knowledgeable assistant. Given the following context, answer the user's question accurately.
-        
+
         Context:
         {context_str}
-        
+
         Question: {query}
-        
+
         Answer:
         """
 
         response = self.client.chat.completions.create(
             model="gpt-4-turbo",
             messages=[{"role": "system", "content": "You are an AI assistant."},
-                      {"role": "user", "content": prompt}],
+                    {"role": "user", "content": prompt}],
             temperature=0.5
         )
         return response.choices[0].message.content.strip()
+
 
 if __name__ == "__main__":
     logger.info("Starting FAISS index building process...")
