@@ -5,3 +5,5 @@ NCERT_downloads/
 *.env
 data/
 __pycache__/
+*.csv
+eval_withot_generating.py
