@@ -1,0 +1,615 @@
+question,generated_answer,ground_truth,bert_precision,bert_f1,bert_recall
+What are Newton's laws of motion?,"I don't know.  The text mentions Newton's three laws of motion and states the first law (""An object remains in a state of rest or of uniform motion in a straight line unless compelled to change that state by an applied force""), but it does not provide the full text of the other two laws.
+","Newton's laws describe the motion of objects: the law of inertia, F=ma, and action-reaction. ",0.46433550119400024,0.5053113698959351,0.5542190074920654
+What is the structure of an atom?,"I don't know.  The provided text mentions that the structure of the atom was a big question and that various models were proposed (Thomson's model is mentioned), but it doesn't give a definitive answer to what the structure is.
+","An atom consists of a nucleus containing protons and neutrons, with electrons orbiting around it. ",0.3876977860927582,0.43872126936912537,0.5052101612091064
+What is science?,"Based on the provided text, science is a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe.  It's like a giant, unending jigsaw puzzle where every discovery adds a piece, leading to more questions.  It's also about joyful exploration, asking questions, and trying to understand how things work.
+","Science is a way of thinking, observing, and doing things to understand the world we live in and to uncover the secrets of the universe. ",0.6255552768707275,0.7293042540550232,0.8743093609809875
+Why is curiosity important in science?,"Curiosity is important in science because it drives the asking of questions and exploration of the world, leading to discoveries and understanding of how things work.  Even groundbreaking discoveries often begin with a simple ""Why.""
+","Curiosity drives scientific discovery by encouraging us to ask questions, explore, and understand the world around us. ",0.5677754878997803,0.6110882759094238,0.6615550518035889
+How does science help us understand the world?,"Science helps us unravel mysteries, from the stars shining to flowers blooming.  It's a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe.  New discoveries add pieces to the puzzle of our understanding, sometimes changing what we already know.
+","Science allows us to explore and discover how things work, from studying tiny grains of sand to understanding vast galaxies.  ",0.5723482370376587,0.6164126396179199,0.6678279042243958
+What is the scientific method?,"Based on the provided text, the scientific method is a step-by-step process used to find answers to questions.  The steps include: observing something interesting or confusing, guessing a possible answer, testing the guess through experiments or observations, and analyzing the results to see if the question was answered.
+","The scientific method is a step-by-step process involving observation, hypothesis formation, experimentation, and analysis to find answers to questions. ",0.6647907495498657,0.7383396625518799,0.830187201499939
+Give an example of the scientific method in daily life.,"Someone cooking food wondering why the dal spilled out of the cooker (was there too much water?), a bicycle repair person trying to find out why a tire is flat (where did the air leak out?), or an electrician trying to find why a light bulb is not working (is there a problem with the bulb or the switch?).  The example of a pen stopping writing and troubleshooting the cause is also given.
+","If a pen stops writing, we may hypothesize that the ink has run out, test it by opening the pen, and verify whether the hypothesis is correct. ",0.47954195737838745,0.5089840292930603,0.5422778725624084
+Why do we need food to grow?,"The provided text states that nutrients in food enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies, and to provide the energy to carry out life processes.
+",Food provides the necessary nutrients and energy for growth and survival. ,0.5151498913764954,0.5856252908706665,0.6784396171569824
+How does water change states?,"Based on the provided text, water changes state through the addition or removal of energy.  Increasing temperature increases the kinetic energy of water particles, overcoming the forces of attraction between them, leading to a change from solid (ice) to liquid (water) to gas (water vapor).  The reverse happens when energy is removed.
+","Water freezes into ice when cooled, turns into steam when heated, and can change states based on temperature. ",0.4947521984577179,0.5518122911453247,0.6237497329711914
+Why is Earth unique among planets?,"It is the only planet we know that supports life and it has an environment that we must protect.
+",Earth is the only known planet that supports life due to its environment and water availability. ,0.6394554376602173,0.6645671129226685,0.6917316317558289
+How do scientists work?,"Scientists follow the scientific method to solve problems or discover new things.  This involves observing something, formulating a question, guessing a possible answer, testing the guess through experiments or observations, and analyzing the results.  They often work in large teams and collaborate across the world.
+","Scientists follow the scientific method, conduct experiments, and work together in teams to solve problems and discover new things. ",0.6387670636177063,0.7165800929069519,0.815980851650238
+Why is it important to observe our surroundings?,"The provided text emphasizes the importance of observing surroundings to understand how living organisms respond to environmental changes and to learn about the variety of plants, animals, and other natural elements.  Specific examples include noticing smells, sounds, different types of plants and animals, and soil samples.
+","Observing our surroundings helps us understand natural phenomena, solve problems, and make scientific discoveries. ",0.5431981682777405,0.5924820899963379,0.6516013741493225
+What is science?,"Based on the provided text, science is a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe.  It's like a giant, unending jigsaw puzzle where every new discovery adds a piece, leading to more questions.  It's also about joyful exploration and asking questions,  a process exemplified by the scientific method.
+","Science is a way of thinking, observing, and doing things to understand the world we live in. ",0.5498123168945312,0.6661832332611084,0.8450409770011902
+Why is curiosity important in science?,"Curiosity is important in science because it drives the asking of questions, exploration of the world, and understanding of how things work.  Even groundbreaking discoveries often begin with a simple ""Why.""
+","Curiosity drives scientific discovery by encouraging us to ask questions, explore, and understand the world around us. ",0.573611319065094,0.623109757900238,0.6819576621055603
+How does science help us understand the world?,"Science helps us unravel mysteries, from the shining of stars to how flowers bloom.  It's a way of thinking, observing, and doing things to understand the world and uncover secrets of the universe.  New discoveries add pieces to a giant jigsaw puzzle, sometimes changing our understanding of the world.  Science connects seemingly disparate ideas, from the depths of the ocean to outer space.
+","Science allows us to explore and discover how things work, from studying tiny grains of sand to understanding vast galaxies. ",0.5684719085693359,0.6231877207756042,0.6895580887794495
+What is the scientific method?,"Based on the provided text, the scientific method involves: 1) observing something interesting or confusing; 2) forming a question; 3) guessing a possible answer; 4) testing the guess through experiments or observations; and 5) analyzing the results to see if the question is answered.
+","The scientific method is a step-by-step process involving observation, hypothesis formation, experimentation, and analysis. ",0.4593309164047241,0.5134191513061523,0.5819458961486816
+Give an example of the scientific method in daily life.,"Someone cooking food wondering why dal spilled out of the cooker (was there too much water?), a bicycle repair person trying to find out why a tire is flat (where did the air leak out?), or an electrician trying to find why a light bulb is not working (is there a problem with the bulb or the switch?).  The example of a pen stopping writing and troubleshooting the issue (ink empty? ink dried up?) is also given.
+","If a pen stops writing, we may hypothesize that the ink has run out, test it by opening the pen, and verify the hypothesis. ",0.46170708537101746,0.5040054321289062,0.5548356771469116
+Why do we need food to grow?,"The provided text states that nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies, and to provide the energy to carry out life processes.
+",Food provides the necessary nutrients and energy for growth and survival. ,0.5114246606826782,0.5789554715156555,0.6670337319374084
+How does water change states?,"The provided text describes water changing states through heating and cooling.  Heating increases the kinetic energy of water particles, overcoming forces of attraction between them, leading to changes from solid (ice) to liquid (water) to gas (water vapor).  The reverse happens with cooling.  The text also mentions evaporation, where water changes to vapor without reaching its boiling point due to particles with higher kinetic energy escaping.
+","Water freezes into ice when cooled, turns into steam when heated, and changes states based on temperature. ",0.4842383861541748,0.5436713099479675,0.6197342872619629
+Why is Earth unique among planets?,"It is the only planet we know that supports life and it has an environment that we must protect.
+",Earth is the only known planet that supports life due to its environment and water availability. ,0.6394554376602173,0.6645671129226685,0.6917316317558289
+How do scientists work?,"Scientists follow the scientific method to solve problems or discover new things.  This involves observing something, formulating a question, guessing a possible answer, testing the guess through experiments or observations, and analyzing the results.  They often work together in large teams.
+","Scientists follow the scientific method, conduct experiments, and work together in teams to solve problems. ",0.6223054528236389,0.7084046006202698,0.8221537470817566
+Why is it important to observe our surroundings?,"The provided text highlights the importance of observation in several ways:  to understand how living organisms respond to environmental changes (e.g., plants growing towards sunlight, animals seeking food or shelter), to learn about the diversity of plants and animals, and to study soil composition.  It also emphasizes the need for careful observation to detect subtle details, as illustrated by the suggestion to use magnifying lenses to examine soil samples.
+","Observing our surroundings helps us understand natural phenomena, solve problems, and make scientific discoveries. ",0.45112037658691406,0.5146804451942444,0.5990883111953735
+What is photosynthesis?,"Photosynthesis is the process by which autotrophs take in substances from the outside and convert them into stored forms of energy.  This involves taking in carbon dioxide and water, which are converted into carbohydrates in the presence of sunlight and chlorophyll.  The carbohydrates provide energy to the plant, and excess is stored as starch.  It is a process where the synthesis of food occurs in the presence of sunlight.  Chlorophyll, sunlight, carbon dioxide, and water are necessary.  The solar energy is captured by the leaves and stored in the plant as food; thus, the sun is the ultimate source of energy for all living organisms.
+",Photosynthesis is the process by which green plants convert sunlight into energy. ,0.48831433057785034,0.6180407404899597,0.8416293859481812
+Why do different regions in India have different traditional foods?,"The choice of food may vary according to the cultivation of food crops in that particular region, taste preferences, culture, and traditions.
+","Traditional foods vary due to differences in climate, soil type, and locally grown crops in each region. ",0.692337691783905,0.7065631747245789,0.7213855385780334
+What are energy-giving foods?,"Carbohydrates and fats are energy-giving foods.
+","Carbohydrates and fats provide energy. Sources include rice, wheat, maize, butter, and nuts. ",0.8103607296943665,0.7475908994674683,0.6938462853431702
+What disease is caused by Vitamin C deficiency?,"Scurvy
+","Scurvy, which leads to bleeding gums and slow wound healing. ",0.8301728963851929,0.6136694550514221,0.4867328405380249
+Why are roughage and water important in our diet?,"Dietary fibers, also known as roughage, don't provide nutrients but are essential for getting rid of undigested food and ensuring smooth passage of stools.  Water helps the body absorb nutrients from food and removes waste through sweat and urine.
+","Roughage helps with digestion, and water aids in nutrient absorption and waste removal. ",0.5531224012374878,0.6162295937538147,0.6955914497375488
+How did sailors in ancient times find directions when stars were not visible?,API limit exceeded. Please try again later.,"They used a magnetic compass, which aligns with the Earth's magnetic field. ",0.31017547845840454,0.2906927168369293,0.2735128700733185
+What happens when a freely suspended magnet is left undisturbed?,"A freely suspended magnet comes to rest along the north-south direction.
+",It aligns itself in the north-south direction. ,0.6676358580589294,0.7072781324386597,0.7519251108169556
+What are magnetic materials?,"The materials which are attracted towards a magnet are called magnetic materials.  The metal iron is a magnetic material. Nickel and cobalt are other metals that are also magnetic. Some of their combinations with other metals are also attracted towards magnets.
+","Materials like iron, nickel, and cobalt that are attracted to magnets. ",0.5960231423377991,0.6517223119735718,0.7189049124717712
+What happens when two like poles of a magnet are brought together?,"They repel each other.
+",They repel each other. ,1.0000001192092896,1.0000001192092896,1.0000001192092896
+How can you make a simple compass at home?,"Collect a cork piece, iron sewing needle, a permanent bar magnet, a glass bowl, and water.  Place the needle on a table, then move one pole of the magnet along the needle's length repeatedly (30-40 times).  If iron filings are attracted to the needle, it's magnetized.  Push the needle horizontally through the cork and float the cork in the water.
+",By rubbing a needle with a magnet and floating it on water using a cork. ,0.533525824546814,0.5999748706817627,0.6853309273719788
+What are the standard units of length in the SI system?,"The SI unit of length is the metre (m).  1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm.
+","The metre (m) is the standard unit; 1 kilometre (km) = 1000 metres, and 1 centimetre (cm) = 10 millimetres. ",0.7682688236236572,0.7620896697044373,0.7560092210769653
+What is the importance of using a standard unit for measurement?,"Measurements of the same length made by different people do not differ.
+",It ensures consistency and avoids confusion in measurements. ,0.4533440172672272,0.46340832114219666,0.47392961382865906
+How can you measure the length of a curved object?,"Use a thread to trace the curved line, then straighten the thread and measure its length using a metre scale.
+","By using a thread, tracing the object's shape, and measuring the thread's length with a scale. ",0.7482962012290955,0.7571396231651306,0.7661945223808289
+What is motion?,"Based on the provided text, motion is described in several ways:
+
+* **Linear motion:** An object moving along a straight line.
+* **Circular motion:** An object moving along a circular path.
+* **Oscillatory motion:** An object moving to and fro about a fixed position.
+* **Motion along a straight line:** The simplest type of motion.  The text also mentions periodic motion.
+  The text also discusses controlled and uncontrolled motion, relating it to environmental responses and human intervention.
+",An object is in motion if its position changes with respect to a reference point over time. ,0.39807114005088806,0.46837660670280457,0.5688429474830627
+How can you determine if an object is moving or stationary?,"An object is said to be in motion if its position changes with respect to the reference point with time. If an object is not changing its position with respect to the reference point, it is at rest.
+",By comparing its position to a fixed reference point. ,0.5263586044311523,0.5830837488174438,0.653512179851532
+What are the three types of materials based on transparency?,"Based on the provided text, the three types of materials based on transparency are transparent, opaque, and translucent.
+","Transparent (glass), translucent (butter paper), and opaque (wood). ",0.5267906188964844,0.5442046523094177,0.5628092885017395
+Why are different materials used for making different objects?,"We choose a material to make an object depending on its properties and the purpose for which the object is to be used.
+","Material choice depends on properties like strength, durability, and transparency. ",0.4900282025337219,0.5165974497795105,0.5462130904197693
+What are examples of soluble and insoluble substances in water?,"Sugar and salt are examples of soluble substances, while chalk powder and sand are examples of insoluble substances.
+","Soluble: sugar, salt. Insoluble: sand, chalk powder. ",0.6027945280075073,0.6432942152023315,0.6896278858184814
+What is matter?,"Anything that occupies space and has mass is called matter.  The mass gives the quantity of matter, and the space occupied by matter is its volume.
+",Anything that has mass and occupies space. ,0.5242010354995728,0.6119587421417236,0.7350082993507385
+Why do some metals lose their shine over time?,"Some metals lose their lustre and start to look dull or nonlustrous due to the effect of air and moisture on them.
+","Due to exposure to air and moisture, leading to oxidation. ",0.4945465326309204,0.5519043207168579,0.6243124008178711
+What is temperature?,"Temperature is a reliable measure of the hotness or coldness of a body.  A hotter body has a higher temperature than a colder body.
+",Temperature is a measure of how hot or cold an object is. ,0.6662737131118774,0.7282554507255554,0.8029519319534302
+What is a thermometer used for?,"Thermometers are used to measure temperature.  Clinical thermometers measure human body temperature, while laboratory thermometers are used for many other purposes.
+",A thermometer is a device used to measure temperature. ,0.6312522888183594,0.6899774670600891,0.7607496976852417
+What are the two main types of thermometers?,"Clinical thermometers and laboratory thermometers.
+",The two main types of thermometers are clinical thermometers and laboratory thermometers. ,0.8546696305274963,0.7993316650390625,0.7507238388061523
+Why are digital thermometers replacing mercury thermometers?,API limit exceeded. Please try again later.,Digital thermometers are safer because mercury is toxic and difficult to dispose of if broken. ,0.3468756079673767,0.3293588161468506,0.3135261535644531
+How do digital thermometers work?,"Digital thermometers use heat sensors to determine temperature.
+",Digital thermometers determine temperature using heat sensors and display the result digitally. ,0.8878729343414307,0.8358641266822815,0.7896112203598022
+What is the normal human body temperature in Celsius?,"37°C
+",The normal human body temperature is around 37°C. ,0.703019917011261,0.5249009132385254,0.4187941253185272
+Why do we wash a thermometer before and after use?,"The provided text states that Phiban washed the thermometer tip with soap and water before and after measuring Lambok's temperature.  It also mentions that care should be taken to keep the digital portion of the thermometer out of water while washing.  However, it does *not* explicitly state *why* the thermometer should be washed.
+",To ensure hygiene and prevent infections. ,0.34130093455314636,0.40438413619995117,0.49607425928115845
+What is the Fahrenheit equivalent of 37°C?,"98.6°F
+",37°C is equal to 98.6°F. ,0.8091838359832764,0.694477379322052,0.6082539558410645
+How can temperature be measured without contact?,"Infrared thermometers, also called noncontact thermometers, can measure temperature without touching a person's body.
+",Infrared thermometers can measure temperature without touching the object or person. ,0.7441031336784363,0.7987633943557739,0.8620907664299011
+What is the SI unit of temperature?,"kelvin
+",The SI unit of temperature is Kelvin (K). ,0.4897729456424713,0.37434253096580505,0.30294424295425415
+What is the freezing point of water in Celsius and Fahrenheit?,"I don't know.
+",Water freezes at 0°C (32°F). ,0.3826100528240204,0.3203605115413666,0.27553218603134155
+What is the boiling point of water in Celsius and Fahrenheit?,"The provided text states that the boiling point of water is 100°C.  It does not provide the Fahrenheit equivalent.
+",Water boils at 100°C (212°F). ,0.4928964376449585,0.5641393661499023,0.6594570279121399
+How should a laboratory thermometer be held while measuring temperature?,"The laboratory thermometer should be held vertically; it should not be tilted.  The bulb should be surrounded from all sides by the substance whose temperature is being measured, and the bulb should not touch the surface of the container.
+","It should be held vertically, with the bulb immersed in the substance without touching the container. ",0.6363933086395264,0.6968123316764832,0.7699072360992432
+What is absolute zero?,"Absolute zero is close to -273.15°C (0 Kelvin).
+","Absolute zero is the lowest possible temperature, approximately -273.15°C (0 Kelvin). ",0.8872755765914917,0.8463706374168396,0.8090711236000061
+Who was Anna Mani?,"Anna Mani (1918-2001) was an Indian scientist also known as the Weather Woman of India.  She invented and built a large number of weather.
+",Anna Mani was an Indian scientist known as the 'Weather Woman of India' for her work in meteorology and weather instruments. ,0.7326456308364868,0.7599570155143738,0.7893835306167603
+What are the different states of water?,"Water can be observed in three different states: solid (ice), liquid (water), and gas (water vapor).
+","Water exists in three states: solid (ice), liquid (water), and gas (water vapour). ",0.9079689979553223,0.9207667708396912,0.9339304566383362
+Why does ice feel hard while water cannot be held the same way?,"Ice retains its shape regardless of the container, while water takes the shape of its container.  Ice does not flow or spread, unlike water.
+","Ice is in a solid state with a fixed shape, while water is a liquid that takes the shape of its container. ",0.699874997138977,0.699471652507782,0.6990688443183899
+What happens when an ice cube is left on a table?,"Ice gets converted into water.
+","The ice melts and turns into water, demonstrating the change of state from solid to liquid. ",0.7314916849136353,0.6344143748283386,0.5600847005844116
+Why do water puddles disappear on a sunny day?,"The provided text states that water evaporates faster in sunlight.  Therefore, puddles disappear faster on sunny days due to evaporation.
+","Water evaporates due to heat and turns into water vapour, which mixes with the air. ",0.589806318283081,0.6177082657814026,0.6483811140060425
+What is evaporation?,"Evaporation is the process of conversion of water into its vapor state.  It takes place continuously even at room temperature.
+",Evaporation is the process where water changes into water vapour at any temperature below its boiling point. ,0.7237570285797119,0.7394775748252869,0.755896270275116
+What is condensation?,"The conversion of water vapour into its liquid state is called condensation.
+",Condensation is the process where water vapour turns into liquid when it comes in contact with a cool surface. ,0.7701459527015686,0.7209170460700989,0.677603542804718
+Why do we see droplets on a cold glass tumbler?,"Water vapor from the air comes in contact with the cold surface of the glass tumbler and gets converted into water droplets through condensation.
+",Water vapour from the air condenses into liquid droplets when it touches the cold surface of the glass. ,0.7363908290863037,0.76345294713974,0.7925800681114197
+Why does water from a hot pan disappear when sprinkled?,"The water sprinkled on a hot pan gets converted into steam, which is water vapor.  Some of this converts into water droplets.  This process is called evaporation.
+","It evaporates quickly due to the heat, turning into steam and water vapour. ",0.5860555768013,0.6100356578826904,0.6360618472099304
+What are examples of evaporation in daily life?,"Drying of wet clothes, mopped floor, and sweat on our body.
+","Drying of wet clothes, sweating, and the drying of a mopped floor. ",0.762615442276001,0.7803469300270081,0.7989226579666138
+How can evaporation be increased?,"Based on the provided text, evaporation can be increased by increasing the surface area, increasing the temperature, decreasing the humidity, and increasing the wind speed.
+","Evaporation increases with more heat, wind, lower humidity, and a larger exposed surface area. ",0.6399179100990295,0.6841495037078857,0.7349497675895691
+Why do clothes dry faster on a sunny and windy day?,"Clothes dry faster on a sunny day because increased temperature gives more particles the energy to evaporate.  They dry faster on a windy day because the wind moves away water vapor particles, decreasing the amount of water vapor in the surrounding air.
+",Higher temperature and moving air increase the rate of evaporation. ,0.527336597442627,0.608927845954895,0.7203887701034546
+How does a pot-in-pot cooler work?,"I don't know.  The provided text describes how to build a pot-in-pot cooler but doesn't explain how it works to cool things.
+","Water seeps through the porous outer pot and evaporates, causing cooling inside the inner pot. ",0.4368380308151245,0.4455186724662781,0.4545512795448303
+How do clouds form?,"When air moves higher above the Earth's surface, it cools.  At certain heights, the water vapor in the air turns into droplets, generally formed around dust particles.  These small droplets float in the air and form clouds.  Many droplets join together to form bigger drops of water.  The burnt newspaper in the experiment provides dust particles around which water vapor condenses and forms clouds.
+","Water vapour in the air cools, condenses around dust particles, and forms clouds. ",0.5914332866668701,0.662880539894104,0.753961980342865
+How does rain occur?,"When air moves higher above the Earth's surface, it cools.  At certain heights, the water vapor turns into droplets, generally formed around dust particles. These droplets float in the air and form clouds.  Many droplets join to form bigger drops, some getting so heavy they fall as rain.  Under special conditions, it might also fall as hail or snow.
+","When many water droplets in clouds combine and become too heavy, they fall as rain due to gravity. ",0.5895118117332458,0.6402407884597778,0.7005226612091064
+What is the water cycle?,"The circulation of water between the Earth's surface and the atmosphere is known as the water cycle.
+","The water cycle is the continuous movement of water between the Earth's surface and the atmosphere through evaporation, condensation, and precipitation. ",0.8690475821495056,0.7886683344841003,0.7218990325927734
+What is handpicking used for?,"Handpicking is used for separating solid materials on the basis of differences in size, color, and shape from a mixture.
+","Handpicking is used to separate solid materials based on size, color, and shape differences in a mixture. ",0.8729420900344849,0.8929978609085083,0.9139968156814575
+How do farmers separate grains from the stalks?,"Farmers beat the stalks on a large wooden log to separate the grains.  This process is called threshing.
+","Farmers use threshing, which involves beating the stalks to separate the grains. ",0.7491957545280457,0.7824470400810242,0.8187870383262634
+What is winnowing?,"Winnowing is the method of separating lighter husk from heavier grains by wind or blowing air.
+",Winnowing is the method of separating lighter husk from heavier grains using wind or air. ,0.9575294852256775,0.9652425050735474,0.9730807542800903
+How does sieving help in separation?,"Sieving separates solids from a mixture based on variations in particle size using a sieve.  The fine flour particles pass through the holes of the sieve, while bigger particles such as bran and small stones remain on the sieve.
+","Sieving separates solid-solid mixtures based on particle size, allowing smaller particles to pass through while larger ones remain. ",0.6473672389984131,0.6984429359436035,0.7582685351371765
+What is the process of evaporation used for?,"The process of evaporation can be used to separate a solid dissolved in a liquid.
+",Evaporation helps separate dissolved solids from liquids by heating until the liquid turns into vapor. ,0.6812624335289001,0.6797308921813965,0.6782060861587524
+How is common salt obtained from seawater?,"I don't know
+","Seawater is kept in shallow pits under sunlight, where water evaporates, leaving behind salt. ",0.34264320135116577,0.30446237325668335,0.2739374339580536
+What is sedimentation?,"The process of settling down of heavier insoluble component at the bottom of a liquid is called sedimentation.
+",Sedimentation is the process where heavier insoluble components settle at the bottom of a liquid. ,0.8425455093383789,0.8622174859046936,0.882830023765564
+What is decantation?,"Decantation is the process of removing the liquid by tilting the vessel after the heavier insoluble component has settled at the bottom of a liquid.
+",Decantation involves carefully pouring out a liquid while leaving the settled solid undisturbed. ,0.6514180898666382,0.6693176031112671,0.6882284879684448
+How does filtration work?,API limit exceeded. Please try again later.,Filtration separates insoluble solids from liquids using a filtering material like filter paper or cloth. ,0.34405216574668884,0.3113575875759125,0.2843375504016876
+What is churning used for?,"Churning is used to extract butter from curd.
+","Churning is used to separate butter from curd by rotating a churner, making butter float on top. ",0.8891242742538452,0.7775104641914368,0.6907936334609985
+How do magnets help in separation?,"The children used a magnet to attract and remove iron nails from sawdust.  The text states that ""All the nails get attracted to it"".
+",Magnetic separation is used to separate magnetic substances like iron from non-magnetic substances. ,0.4627573490142822,0.49053138494491577,0.5218521952629089
+How do fishermen use separation techniques?,"I don't know
+",Fishermen use nets with mesh sizes that allow water to drain while catching fish. ,0.32968416810035706,0.3047769069671631,0.2833687663078308
+Why do we filter muddy water before drinking?,"I don't know
+","Filtration removes dirt and impurities, making water cleaner for consumption. ",0.2679009437561035,0.2496299296617508,0.2336919605731964
+What is the role of a sieve in a kitchen?,"Based on the provided text, a sieve is used in the kitchen to remove bran from flour.
+",Sieves are used to remove coarse particles from flour and to separate bran. ,0.6517913341522217,0.7082168459892273,0.775337815284729
+Why is decantation not an ideal method for separating tea leaves?,"Decantation does not completely separate all the tea leaves from the tea; some tea leaves can still remain in the tea.
+","Decantation does not remove all tea leaves, so filtration is a better method using a strainer. ",0.6956982016563416,0.6708444356918335,0.6477053165435791
+What is the difference between living and nonliving things?,"The essential features of living beings are that they move, eat, grow, breathe, excrete, respond to stimuli, reproduce, and die.  Absence of any of these features indicates that they are not living beings.
+","Living things can grow, move, breathe, excrete, respond to stimuli, and reproduce, whereas nonliving things do not exhibit these characteristics. ",0.7419422268867493,0.7638930678367615,0.7871823906898499
+Why does a snail's shell seem lifeless?,"The passage states that Avadhi thought the shell was lifeless because it wasn't moving.
+","A snail's shell is part of its body, and even though it does not move on its own, the snail inside is a living organism. ",0.5163566470146179,0.5079717636108398,0.49985477328300476
+How do plants show movement despite being stationary?,"Plants show two types of movement: one dependent on growth and the other independent of growth.  Growth-related movement is seen in things like a pea plant's tendrils circling around an object because the part of the tendril touching the object grows more slowly than the part away from it.  Movement independent of growth is seen in the sensitive plant, which moves its leaves in response to touch using electrical-chemical means to convey information from cell to cell;  plant cells change shape by altering their water content, causing swelling or shrinking.
+","Plants show movement in different ways, such as flowers opening and closing, climbers wrapping around objects, and insectivorous plants trapping insects. ",0.4780051112174988,0.525527834892273,0.583543062210083
+What is the role of stomata in plants?,"Stomata are necessary for exchanging gases with the atmosphere.  Transpiration (loss of water in the form of water vapor) also takes place through stomata.  They also help plants in taking air in and out.
+",Stomata are tiny pores on the surface of leaves that help plants take in air and release gases. ,0.6083282828330994,0.6409951448440552,0.6773695349693298
+How do plants and animals respire?,"Plants take in oxygen from the air and give out carbon dioxide.  Animals, including humans, cows, buffaloes, dogs, and cats, have respiratory organs similar to humans. Earthworms exchange gases through their moist skin; fish use gills; and insects use tracheae.  Plants also use stomata in their leaves for gas exchange.  The breakdown of glucose in plant cells is similar to that in other living beings.
+","Animals breathe through lungs, gills, or other organs, while plants use stomata for gas exchange. ",0.5811744332313538,0.6593374013900757,0.7617918848991394
+What is excretion in living beings?,"The process of removal of harmful metabolic wastes from the body is called excretion.  Different organisms use varied strategies to do this.  In animals, excretion includes removal of waste products like sweat (water and salts), urine (water and salts), and carbon dioxide (through lungs).  Plants also excrete, for example, excess water and minerals in the form of small droplets.
+","Excretion is the process of removing waste materials from the body, such as sweat, urine, and excess water in plants. ",0.6107418537139893,0.7011829018592834,0.8230655789375305
+How do living beings respond to stimuli?,"All living beings respond to stimuli.  For example, the sensitive plant (mimosa pudica) folds its leaves when touched.  Certain plants fold their leaves after sunset; the leaves of plants facing each other tend to come together.  Animals also respond to stimuli; for example, a person might react to stepping on a thorn or touching a hot object.
+","Living beings react to external changes, such as withdrawing a hand from a hot object or plants closing their leaves when touched. ",0.5833747982978821,0.6513190865516663,0.7371761798858643
+What is reproduction in living beings?,"I don't know
+",Reproduction is the process by which living organisms produce new individuals of their kind to ensure continuity of life. ,0.31782299280166626,0.2659665644168854,0.22865837812423706
+Why is a seed considered a living thing?,"I don't know.  The text discusses the conditions for seed germination and whether seeds are living or non-living, but it does not explicitly state *why* a seed is considered living.
+",A seed contains a living embryo that can grow into a plant under suitable conditions. ,0.450946182012558,0.5051989555358887,0.5742911696434021
+What are the essential conditions for seed germination?,"Based on the provided text, the essential conditions for seed germination are water and air.  Sunlight is not essential for germination itself, but is required for further growth after germination.
+","Seeds need water, air, and suitable temperature for germination. ",0.6177718639373779,0.6733961701393127,0.7400285601615906
+Why is sunlight not necessary for seed germination?,"In general, most seeds do not require light for germination.
+","Most seeds germinate without sunlight, but they need it later for growth through photosynthesis. ",0.7195850610733032,0.688908040523529,0.6607397198677063
+What is the role of water in seed germination?,API limit exceeded. Please try again later.,Water softens the seed coat and activates the embryo inside to start growing. ,0.3443649709224701,0.33689022064208984,0.3297330439090729
+How do roots and shoots grow in plants?,"Based on the provided text:  When a plant is upright, the root grows downwards and the shoot grows upwards. When a plant is inverted, the root bends and grows downwards, and the shoot bends and grows upwards. When a plant receives sunlight from only one direction, the shoot grows towards the light, while the root continues to grow downwards.
+","Roots grow downward due to gravity, while shoots grow upward towards sunlight. ",0.5336052179336548,0.6019470691680908,0.6903661489486694
+Why do mosquito larvae live in stagt water?,"Mosquito larvae and pupae live in water and require air to respire.  They move to the surface of the water for air.
+",Mosquito larvae need water to survive and breathe by coming to the surface for air. ,0.7228402495384216,0.7432307004928589,0.7648048996925354
+What are the four stages in the life cycle of a mosquito?,"The four stages in the life cycle of a mosquito are egg, larva, pupa, and adult.
+","The mosquito's life cycle consists of four stages: egg, larva, pupa, and adult. ",0.8494191765785217,0.854915976524353,0.8604843616485596
+What are the natural treasures in a forest?,"Based on the provided text, the natural treasures in the forest include pure air, fertile soil, sunlight, diverse trees providing food and shelter to animals and insects, water for drinking and growing vegetables, herbs, shrubs, trees, medicinal plants, and various animals including birds and insects.  The forest also provides food, shelter, water, and medicine for people.
+","Forests provide pure air, fertile soil, and shelter for animals, birds, and insects. ",0.6259690523147583,0.715225338935852,0.8341684937477112
+Why is oxygen important for survival?,"Our body needs oxygen to perform its functions.  When we hold our breath for a long time the body does not get enough oxygen to perform its functions. Thus we need oxygen for our survival.  Similarly most of the living beings also need oxygen for their survival.
+",Oxygen is required by living beings for respiration and essential body functions. ,0.5238295793533325,0.5756391286849976,0.6388220191001892
+What is wind?,"Moving air is called wind.  Sometimes it blows fast (for example, during a storm) and sometimes it blows gently as a breeze.
+",Wind is moving air that can blow fast during storms or gently as a breeze. ,0.6945875883102417,0.7510362863540649,0.8174717426300049
+How does a windmill work?,"Wind rotates the wings of a windmill.  Windmills can be used to run flour mills, pull up water from a well, or generate electricity.
+","Wind rotates the wings of a windmill, which can generate electricity, pull up water, or run flour mills. ",0.8322771191596985,0.857599139213562,0.8845102787017822
+Why is freshwater important?,"Based on the provided text, freshwater is important for drinking and growing vegetables.
+","Freshwater is needed for drinking, cooking, bathing, and agricultural purposes. ",0.599653959274292,0.6426804661750793,0.6923587322235107
+What are sources of freshwater?,"Freshwater is present in the form of ice sheets or snow, rivers, lakes on the surface of the Earth, and underground.  A very small fraction of freshwater is easily accessible in ponds, rivers, lakes, and wells.
+","Freshwater comes from rivers, lakes, ponds, and underground reservoirs. ",0.6215993762016296,0.7140545845031738,0.8388185501098633
+What is rainwater harvesting?,"Rainwater harvesting is the collection and storage of rainwater for later use.  It is an age-old practice in India, with examples including stepwells (bawadis and vavs).  In many buildings, rainwater is collected and stored in large quantities.  It's also practiced in many homes, residential societies, and schools.
+",Rainwater harvesting is the collection and storage of rainwater for later use. ,0.5319510698318481,0.6822074055671692,0.9507623314857483
+Why should we prevent water pollution?,"So that water remains fit for consumption by all living beings.
+",Water pollution makes freshwater unfit for human and animal consumption. ,0.6252073645591736,0.644108235836029,0.664187490940094
+What are renewable resources?,"Resources that get renewed, replenished, or restored by natural processes within a reasonable period are called renewable resources.  Air, water, and forests are examples.
+","Renewable resources, like air, water, and forests, can be replenished naturally over time. ",0.6724393963813782,0.704262912273407,0.7392480373382568
+What is the importance of soil?,"The provided text states that soil is a precious treasure that supports biodiversity and that some soils are good for growing certain types of plants while others are good for making bricks for buildings.  It also mentions that soil contains minerals, water, air, and living organisms, and that it's formed by the disintegration of rocks over thousands of years.
+","Soil supports plant growth, holds nutrients, and provides a habitat for many organisms. ",0.5120326280593872,0.5779993534088135,0.6634770631790161
+What are fossil fuels?,"Fossil fuels are formed from the dead remains of living organisms (fossils) millions of years ago.  Coal, petroleum, and natural gas are examples of fossil fuels.
+","Fossil fuels, like coal and petroleum, are energy sources formed over millions of years. ",0.6751936078071594,0.7125647664070129,0.7543151378631592
+Why is the Sun important for life?,"The Sun is essential for plant growth, which provides food and oxygen to animals, including humans.  It is responsible for climate, seasons, weather, the water cycle, and winds—all important for sustaining life on Earth.  The Sun is the main source of energy on Earth; all plants and animals are dependent on it.  The heat and light from the Sun are used for various purposes.  Photosynthesis, the process by which plants make food, requires sunlight.
+","The Sun provides heat, light, and energy essential for the survival of plants and animals. ",0.5777087211608887,0.6598210334777832,0.769142746925354
+What are the consequences of deforestation?,"Based on the provided text, deforestation increases temperature and pollution levels, increases the level of carbon dioxide in the atmosphere, lowers the groundwater level, disturbs the balance in nature, reduces rainfall, increases the chance of floods and droughts, changes soil properties (decreasing water holding capacity, reducing infiltration rate, changing nutrient content and texture), leads to soil erosion and desertification, and affects animal life.
+","Deforestation leads to soil erosion, loss of biodiversity, and climate change. ",0.5465783476829529,0.631212055683136,0.7468576431274414
+How can we conserve water?,API limit exceeded. Please try again later.,"Water conservation methods include fixing leaks, using water-efficient appliances, and rainwater harvesting. ",0.35224786400794983,0.32843777537345886,0.30764278769493103
+What are the uses of natural gas?,"Natural gas is used for power generation, as a fuel for transport vehicles (CNG), for burning in homes and factories, and as a starting material for the manufacture of chemicals and fertilizers.  It is also used for cooking and generating electricity.
+","Natural gas is used for cooking, generating electricity, and as a cleaner fuel for vehicles. ",0.7025203108787537,0.7739959955215454,0.8616631627082825
+What are constellations?,"In earlier times, groups of stars forming patterns were called constellations.  Currently, the regions of sky which include these groups of stars are defined as constellations.  The entire sky is divided into 88 regions officially listed as constellations by the International Astronomical Union (IAU).
+","Constellations are patterns formed by groups of stars, often named after animals, objects, or mythological characters. ",0.5113541483879089,0.542533814907074,0.5777627229690552
+How did ancient travelers use stars?,"In ancient times, recognizing stars and their patterns was a useful skill for navigation at sea or on land, helping people, particularly sailors and travelers, find directions before modern technology or the magnetic compass.  It is still used as a backup method in emergencies.
+","Ancient travelers used stars, like the Pole Star, for navigation. ",0.5020732283592224,0.5740348100662231,0.6700761318206787
+What is the brightest star in the night sky?,"Sirius
+","Sirius, also known as the Dog Star, is the brightest star visible from Earth. ",0.3792361617088318,0.2964183986186981,0.24328885972499847
+Why does light pollution affect star visibility?,"Light pollution, the excessive presence of artificial light at night, reduces our ability to enjoy and study objects in the night sky.  In areas with less light pollution, more stars are visible.
+",Light pollution from artificial sources reduces the number of stars visible in the night sky. ,0.6271704435348511,0.6892133951187134,0.7648791670799255
+What is the role of the Sun in the Solar System?,"The Sun is the largest and heaviest object in the Solar System.  It produces almost all the energy in the Solar System.  All other objects in our Solar System shine due to the sunlight that they reflect from their surfaces.
+","The Sun is the center of the Solar System, providing heat and light to planets and enabling life on Earth. ",0.5901942253112793,0.6118800044059753,0.6352202296257019
+What is the difference between planets and stars?,"Unlike planets, stars appear to twinkle a lot.
+","Planets do not produce their own light and revolve around the Sun, whereas stars generate their own light. ",0.5811057090759277,0.5233821868896484,0.4760902225971222
+What is the order of planets from the Sun?,"The eight planets in order of their increasing distance from the Sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+","The order of planets is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. ",0.7780088186264038,0.8356217741966248,0.902449905872345
+Why is Venus called the Morning Star?,"Venus is called the Morning Star (and Evening Star) because it shines brightly at dawn and dusk.
+","Venus appears bright before sunrise and after sunset, earning it the name Morning Star or Evening Star. ",0.7267551422119141,0.7288292050361633,0.7309150695800781
+What are natural satellites?,"Moons are natural satellites of planets.
+","Natural satellites, like the Moon, orbit planets and do not produce their own light. ",0.7220005393028259,0.6174600720405579,0.5393640995025635
+What is the Milky Way?,"Our home galaxy, also called kha Gang.  A galaxy with millions to billions of stars.
+","The Milky Way is the galaxy containing our Solar System, appearing as a faint band of light in the night sky. ",0.47918060421943665,0.48434555530548096,0.48962312936782837
+What are asteroids?,"Asteroids are many small, rocky, and irregularly shaped objects in the Solar System.  Many revolve around the Sun in paths between Mars and Jupiter, a region called the asteroid belt.  Their sizes range from 10 m to about 500 km.
+","Asteroids are rocky objects orbiting the Sun, mostly found in the asteroid belt between Mars and Jupiter. ",0.594486653804779,0.6784999966621399,0.790166974067688
+What are comets?,"Comets are objects with long tails made up of dust, gases, rocks, and ice.  As a comet approaches the Sun, the frozen material evaporates, forming the tail.
+",Comets are icy celestial bodies that develop a glowing tail when they approach the Sun. ,0.5827594995498657,0.6476524472236633,0.7288086414337158
+How does the Earth revolve around the Sun?,"The Earth revolves around the Sun in nearly one year.
+","Earth completes one revolution around the Sun in about 365 days, causing seasons. ",0.7694550156593323,0.7164503931999207,0.6702776551246643
+What is a telescope used for?,"A telescope helps us view many dim objects not visible by our naked eyes directly; it also allows us to see objects brighter and larger than with the naked eye.
+","A telescope magnifies distant celestial objects, making stars and planets more visible. ",0.5338780879974365,0.5692042708396912,0.6095367670059204
+Why does the Moon have craters?,"Most of the craters on the Moon's surface have been formed due to the impact of asteroids or rocks from space hitting the Moon's surface.
+",The Moon has craters due to impacts from asteroids and meteoroids over millions of years. ,0.6487001776695251,0.6679322123527527,0.688339352607727
+What is the mode of nutrition in plants?,"The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic nutrition.  Plants are autotrophs.
+","Plants use autotrophic mode of nutrition, meaning they synthesize their own food. ",0.6753662824630737,0.6821805238723755,0.6891335844993591
+What are heterotrophs?,API limit exceeded. Please try again later.,Heterotrophs are organisms that obtain food from other living beings as they cannot synthesize their own food. ,0.32704877853393555,0.2954055964946747,0.26934540271759033
+What is photosynthesis?,"Photosynthesis is the process by which autotrophs take in substances from the outside and convert them into stored forms of energy.  This involves taking in carbon dioxide and water, which are converted into carbohydrates in the presence of sunlight and chlorophyll.  The carbohydrates provide energy to the plant, and excess is stored as starch.  It's a process where the synthesis of food occurs in the presence of sunlight;  chlorophyll, sunlight, carbon dioxide, and water are necessary.  Solar energy is captured by the leaves and stored in the plant as food, making the sun the ultimate source of energy for all living organisms.
+","Photosynthesis is the process by which green plants make their food using sunlight, carbon dioxide, and water. ",0.5218399167060852,0.6315401196479797,0.7996386885643005
+Why are leaves called food factories of plants?,"Leaves are called the food factories of plants because all the raw materials needed for food synthesis must reach the leaf.
+","Leaves contain chlorophyll which captures sunlight for photosynthesis, making them the food factories of plants. ",0.6426911950111389,0.6082248091697693,0.577267050743103
+What is the role of stomata in photosynthesis?,"Stomata are tiny pores on the surface of leaves that allow for massive amounts of gaseous exchange necessary for photosynthesis.  The exchange of gases also occurs across the surface of stems and roots, but to a lesser extent.
+","Stomata are tiny pores on leaves that allow the exchange of gases, taking in carbon dioxide and releasing oxygen. ",0.6450095772743225,0.7000877857208252,0.7654505968093872
+Why do desert plants have modified leaves?,"I don't know
+",Desert plants have modified leaves to reduce water loss through transpiration. ,0.34728237986564636,0.314325749874115,0.28708207607269287
+How do plants obtain nitrogen?,"Plants obtain nitrogen from soil bacteria that convert gaseous nitrogen into a usable form.  Plants absorb this usable nitrogen along with water. Farmers also add nitrogen-rich fertilizers to the soil to supplement this process.  Plants can also absorb nitrogen in the form of inorganic nitrates or nitrites, or as organic compounds produced by bacteria from atmospheric nitrogen.
+",Plants obtain nitrogen through soil bacteria that convert nitrogen gas into a usable form or through fertilizers. ,0.6521490216255188,0.7402753233909607,0.8559404611587524
+What is a parasitic plant?,"Cuscuta is a parasitic plant.
+","A parasitic plant, like Cuscuta, derives nutrients from a host plant instead of making its own food. ",0.772946834564209,0.6331716179847717,0.5362070202827454
+What is an insectivorous plant?,"Insectivorous plants are plants that trap insects and digest them to obtain nutrients.  They may be green or another color.  Examples include pitcher plants and Drosera.
+","An insectivorous plant, such as a pitcher plant, traps and digests insects to obtain nutrients. ",0.623670756816864,0.6712365746498108,0.7266567945480347
+What are saprotrophs?,"Saprotrophs are organisms with a saprotrophic mode of nutrition, meaning they take in nutrients from dead and decaying matter.  Fungi are examples of saprotrophs.
+","Saprotrophs are organisms that obtain nutrients from dead and decaying matter, like fungi. ",0.7623610496520996,0.8155899047851562,0.8768097162246704
+What is the role of Rhizobium bacteria in plants?,"Rhizobium bacteria live in the roots of gram peas, moong beans, and other legumes, providing them with nitrogen.  In return, the plants provide food and shelter to the bacteria; this is a symbiotic relationship.
+","Rhizobium bacteria fix nitrogen in the roots of leguminous plants, aiding in their growth. ",0.6089828610420227,0.6872978806495667,0.7887280583381653
+What is the function of guard cells?,"The opening and closing of the stomatal pore is a function of the guard cells.  The guard cells swell when water flows into them causing the stomatal pore to open.  Similarly, the pore closes if the guard cells shrink.
+","Guard cells control the opening and closing of stomata, regulating gas exchange and water loss. ",0.5932180285453796,0.6304676532745361,0.6727086305618286
+How do fungi obtain nutrients?,"Fungi absorb nutrients from dead and decaying matter; this is called saprotrophic nutrition.
+",Fungi obtain nutrients through saprotrophic nutrition by breaking down dead organic matter. ,0.7249021530151367,0.7545377612113953,0.7866998910903931
+What is the ultimate source of energy for all living organisms?,"The sun is the ultimate source of energy for all living organisms.
+",The sun is the ultimate source of energy as it provides the energy needed for photosynthesis. ,0.7945753335952759,0.7644088268280029,0.736449122428894
+Why do plants release oxygen?,"Plants release oxygen through the process of photosynthesis.
+",Plants release oxygen as a byproduct of photosynthesis when they convert carbon dioxide and water into glucose. ,0.8080717921257019,0.7185074090957642,0.6468161344528198
+What is the function of roots in plants?,"The roots absorb water and mineral nutrients dissolved in water.  They have root hairs which increase the surface area for absorption.
+",Roots anchor the plant in the soil and absorb water and minerals for growth. ,0.6539496779441833,0.6779747009277344,0.7038323283195496
+Why are stems important in plants?,"I don't know
+","Stems provide support to the plant and help transport water, minerals, and food. ",0.3222019374370575,0.2956177890300751,0.2730861008167267
+What are the functions of leaves?,"Based on the provided text, the leaves' functions are to synthesize food (photosynthesis) using chlorophyll to capture sunlight's energy from carbon dioxide and water; and to exchange gases with the atmosphere through stomata.  Additionally, transpiration (loss of water vapor) occurs through the stomata.
+","Leaves perform photosynthesis, exchange gases, and help in transpiration. ",0.5076984763145447,0.6069451570510864,0.7544224262237549
+What is transpiration?,"The loss of water in the form of vapour from the aerial parts of the plant is known as transpiration.  Transpiration helps in the absorption and upward movement of water and minerals dissolved in it from roots to the various parts of the plant.
+",Transpiration is the process by which plants lose water vapor through stomata in their leaves. ,0.5862919688224792,0.6131464838981628,0.6425791382789612
+How do plants reproduce?,"Plants reproduce in several ways, categorized as asexual and sexual reproduction.  Asexual reproduction occurs without seeds, through methods like vegetative propagation (using roots, stems, leaves, and buds). Sexual reproduction involves flowers, which are the reproductive parts of the plant.
+","Plants reproduce through seeds, spores, and vegetative propagation. ",0.5381729602813721,0.6417651772499084,0.7947444915771484
+What is pollination?,"Pollination is the process of transfer of pollen grains from the anther of one flower to the stigma of the same or another flower.  It can be self-pollination (pollen to the stigma of the same flower or another flower of the same plant) or cross-pollination (pollen to the stigma of a different plant of the same kind).  Pollination takes place with the help of wind, water, and insects.
+",Pollination is the transfer of pollen from the anther to the stigma of a flower for fertilization. ,0.6043614745140076,0.6896665096282959,0.8030107617378235
+What are the different parts of a flower?,"Sepals, petals, stamens, and pistil.
+","A flower consists of petals, sepals, stamens, and carpels. ",0.7885924577713013,0.7618690729141235,0.7368974685668945
+How do seeds disperse?,"Seeds and fruits of plants are carried away by wind, water, and animals.  Winged seeds, light seeds, or hairy seeds/fruits get blown off by the wind. Some seeds are dispersed by water; these usually have a spongy or fibrous outer coat.  Spiny seeds with hooks attach to animals and are carried away. Some seeds are dispersed when fruits burst.
+","Seeds disperse through wind, water, animals, and explosive mechanisms. ",0.5149540305137634,0.6064290404319763,0.7374227643013
+Why is seed dispersal important?,"Seed dispersal prevents competition between the plant and its own seedlings for sunlight, water, and minerals.  It also enables plants to invade new habitats for wider distribution.
+",Seed dispersal prevents overcrowding and helps plants grow in new areas. ,0.59241783618927,0.6565638184547424,0.7362878322601318
+What are climbers and creepers?,"Some plants with weak stems need support to climb and grow and are called climbers. Some plants creep along the ground and are called creepers.
+","Climbers use tendrils to climb, while creepers spread along the ground. ",0.6054120063781738,0.648338794708252,0.6978175640106201
+What are the differences between monocots and dicots?,"Monocots generally exhibit parallel venation in their leaves and possess fibrous roots, while dicots typically exhibit reticulate venation in their leaves and possess taproots.  Monocots have seeds with one cotyledon, while dicots have seeds with two cotyledons.
+","Monocots have one seed leaf, parallel veins, and fibrous roots, while dicots have two seed leaves, net-like veins, and taproots. ",0.7229272127151489,0.7491533160209656,0.7773539423942566
+Why do desert plants have thick stems?,"The fleshy stems of plants found in the desert can store water and help them tolerate the hot conditions in these places.
+",Desert plants store water in their thick stems to survive in dry conditions. ,0.687822163105011,0.7197642922401428,0.7548176050186157
+What is a taproot system?,"A taproot system consists of one main root (called a taproot) and small side roots arising from it.
+","A taproot system has one main root with smaller lateral roots, as seen in carrots and mango trees. ",0.7268478274345398,0.6968175768852234,0.6691703796386719
+What are fibrous roots?,"Fibrous roots are a bunch of similar-sized thin roots arising from the base of the stem.
+","Fibrous roots form a dense network of roots, as seen in grasses and wheat. ",0.6294589042663574,0.6236394643783569,0.6179267764091492
+How do plants adapt to aquatic environments?,"I don't know
+","Aquatic plants have floating leaves, hollow stems, and reduced roots to survive in water. ",0.3331774175167084,0.3040308952331543,0.2795736491680145
+What is matter?,"Anything that occupies space and has mass is called matter.  The mass gives the quantity of matter, and the space occupied by matter is its volume.
+",Matter is anything that has mass and occupies space. ,0.6308202147483826,0.7050474882125854,0.7990726232528687
+What are the three states of matter?,"The provided text mentions solid, liquid, and gas as the three states of matter.
+","Matter exists in solid, liquid, and gas states. ",0.6191036701202393,0.6815889477729797,0.7581033110618591
+How does matter change its state?,"On increasing the temperature of solids, the kinetic energy of the particles increases. Due to the increase in kinetic energy, the particles start vibrating with greater speed. The energy supplied by heat overcomes the forces of attraction between the particles.
+","Matter changes state through processes like melting, freezing, evaporation, and condensation. ",0.45619991421699524,0.46198156476020813,0.46791163086891174
+What is evaporation?,"Evaporation is the process of conversion of water into its vapour state.  It takes place continuously even at room temperature.
+",Evaporation is the process where a liquid turns into gas at its surface without boiling. ,0.6710503101348877,0.7011452913284302,0.7340663075447083
+What happens when water boils?,"The temperature of water remains constant while it is boiling.
+",Water changes into steam when it reaches its boiling point of 100°C. ,0.6684428453445435,0.6376013159751892,0.6094802618026733
+Why does ice melt?,"The energy supplied by heat overcomes the forces of attraction between the particles.  The particles leave their fixed positions and start moving more freely.  A stage is reached when the solid melts and is converted to a liquid.
+","Ice melts when heat is absorbed, converting it from solid to liquid. ",0.5250948071479797,0.5875849723815918,0.6669579744338989
+What is condensation?,API limit exceeded. Please try again later.,Condensation is when gas turns into liquid upon cooling. ,0.33178865909576416,0.3111814260482788,0.292984277009964
+What is sublimation?,"A change of state directly from solid to gas without changing into liquid state is called sublimation.
+",Sublimation is the process where a solid changes directly into gas without becoming liquid. ,0.7094693183898926,0.731964111328125,0.755932092666626
+What are examples of sublimation?,"I don't know.
+",Examples of sublimation include camphor and dry ice turning directly into gas. ,0.31848904490470886,0.2711275517940521,0.2360285073518753
+Why do gases expand?,"I don't know
+",Gases expand because their particles move freely and spread out in all directions. ,0.29139453172683716,0.27546876668930054,0.26119357347488403
+What are physical changes?,"Physical changes are changes in the physical properties of substances.  No new substances are formed in these changes, and they may be reversible.
+","Physical changes are changes in state, shape, or size without forming new substances. ",0.6361691951751709,0.6632574200630188,0.6927551031112671
+What are chemical changes?,"In chemical changes, new substances are produced.
+","Chemical changes result in new substances with different properties, like rusting of iron. ",0.7576097249984741,0.6917794346809387,0.6364749073982239
+What happens when a candle burns?,"Based on the provided text, when a candle burns, the wax near the heated wick melts quickly.  The molten wax rises through the wick and is vapourized during burning, forming flames.  If a glass tube is placed over the flame, the wax vapors can be seen to produce a flame at the other end of the tube.  If a glass chimney is placed over the candle, restricting air, the flame flickers, produces smoke, and eventually goes out.
+",Burning a candle involves both physical (melting wax) and chemical (burning wick) changes. ,0.43280571699142456,0.4795921742916107,0.5377199053764343
+Why does rust form on iron?,"For rusting, the presence of both oxygen and water or water vapor is essential.  If the content of moisture in the air is high (more humid), rusting becomes faster.
+","Rust forms when iron reacts with oxygen and moisture, leading to corrosion. ",0.5140272974967957,0.5651257038116455,0.6275046467781067
+What is the difference between reversible and irreversible changes?,"I don't know
+","Reversible changes can be undone, like melting ice, while irreversible changes form new substances, like cooking food. ",0.31025177240371704,0.28643906116485596,0.26602113246917725
+What is an acid?,"Based on the provided text, acids are substances that taste sour because they contain acids.  The word ""acid"" comes from the Latin word ""acere,"" meaning sour.  Acids turn blue litmus paper red.
+"," ""An acid is a substance that tastes sour and turns blue litmus red."" ",0.5105396509170532,0.5896314382553101,0.6977211236953735
+What is a base?,"Bases generate hydroxide (OH) ions in water.  Bases that dissolve in water are called alkalis.
+"," ""A base is a substance that tastes bitter feels soapy  and turns red litmus blue.""  ",0.45939379930496216,0.455422967672348,0.451520174741745
+Why does lemon juice taste sour?,"Lemon juice tastes sour because it contains acids.
+"," ""Lemon juice contains citric acid  which makes it sour.""",0.7505849003791809,0.691237211227417,0.6405869126319885
+What is the function of litmus paper?,"Litmus paper is used to test whether a substance is acidic or basic.  It changes color when added to a solution containing an acidic or basic substance.  Red litmus paper turns blue in a basic solution, and blue litmus paper turns red in an acidic solution.
+"," ""Litmus paper is an indicator that changes color to test for acids and bases."" ",0.5705492496490479,0.6109058856964111,0.6574062705039978
+What happens when an acid reacts with a base?,"When an acid reacts with a base, a neutralization reaction occurs, producing a salt and water.
+"," ""An acid and a base neutralize each other to form salt and water."" ",0.6581808924674988,0.6578086018562317,0.657436728477478
+What is neutralization?,"Neutralization is the reaction between an acid and a base to give a salt and water with the evolution of heat.
+"," ""Neutralization is the reaction between an acid and a base forming salt and water."" ",0.8015497326850891,0.8294599056243896,0.8593839406967163
+What is the chemical found in vinegar?,"Acetic acid
+"," ""Vinegar contains acetic acid."" ",0.7918554544448853,0.6382028460502625,0.5344897508621216
+What is the pH scale?,"A scale for measuring hydrogen ion concentration in a solution; it ranges generally from 0 (very acidic) to 14 (very alkaline).  A neutral solution has a pH of 7.  Values less than 7 indicate an acidic solution, and values greater than 7 indicate an alkaline solution.
+"," ""The pH scale measures how acidic or basic a substance is  ranging from 0 to 14.""",0.5127766728401184,0.5725416541099548,0.6480759978294373
+Why is turmeric used as an indicator?,"Turmeric is used as an indicator because it changes color when added to a solution containing an acidic or basic substance.  Specifically, a turmeric stain on a white cloth turns reddish-brown when soap (which is basic) is scrubbed on it, and turns yellow again when washed.
+"," ""Turmeric turns red in a basic solution but remains yellow in an acidic solution."" ",0.5584427118301392,0.6173908710479736,0.6902526617050171
+How does China rose act as an indicator?,"China rose indicator turns acidic solutions to dark pink/magenta and basic solutions to green.
+"," ""China rose solution turns acidic solutions dark pink and basic solutions green."" ",0.7686827778816223,0.7856191396713257,0.8033186197280884
+What are some common natural acids?,"Acetic acid (vinegar), formic acid (ant sting, nettle sting), citric acid (orange, lemon), lactic acid (sour milk/curd), tartaric acid (tamarind), oxalic acid (tomato), ascorbic acid (amla, citrus fruits - Vitamin C).
+"," ""Some common natural acids are citric acid (found in citrus fruits)  lactic acid (in curd)  and tartaric acid (in tamarind).""  ",0.701115608215332,0.7150967121124268,0.7296468019485474
+Why should we not taste unknown substances?,"The provided text states: ""CAUTION 1 Do not taste anything unless asked to do so"".
+"," ""Unknown substances may be harmful or toxic."" ",0.41200146079063416,0.43462878465652466,0.45988592505455017
+What happens when acids and metals react?,"Metals react with acids to give a salt and hydrogen gas.
+"," ""Acids react with metals to form hydrogen gas and a salt."" ",0.8555628061294556,0.8215683102607727,0.7901721000671387
+What is the effect of acid rain?,"Acid rain can cause damage to buildings, historical monuments, plants, and animals.
+"," ""Acid rain damages buildings  plants  and aquatic life by making water bodies more acidic.""  ",0.6649304628372192,0.640232264995575,0.6173031330108643
+How do antacids help in digestion?,"Antacids neutralize the effect of excessive acid in the stomach, relieving indigestion.
+"," ""Antacids neutralize excess stomach acid  relieving acidity and indigestion.""",0.7621129751205444,0.7800131440162659,0.7987743616104126
+What is a physical change?,"A physical change is a change in which a substance undergoes a change in its physical properties.  A physical change is generally reversible, and no new substance is formed.
+"," ""A physical change is a change in appearance without forming a new substance."" ",0.6701532602310181,0.702208399772644,0.7374842166900635
+What is a chemical change?,"A chemical change is a change in which a substance undergoes a change in its physical properties.  A physical change is generally reversible. In such a change no new substance is formed.  Rusting of iron is an example of a chemical change.
+"," ""A chemical change forms a new substance with different properties."" ",0.5619991421699524,0.6023712158203125,0.648992657661438
+What happens when water is boiled?,"The temperature of water remains constant while it is boiling.
+"," ""When water is boiled  it turns into steam  which is a physical change.""  ",0.5846065878868103,0.5577741861343384,0.5332968831062317
+Why does iron rust?,"Iron rusts when exposed to both air and water.
+"," ""Iron rusts when it reacts with oxygen and water to form iron oxide."" ",0.6999437808990479,0.6658807396888733,0.634979248046875
+What is condensation?,"The conversion of water vapor into its liquid state.
+"," ""Condensation is the process where gas turns back into liquid upon cooling."" ",0.5961667895317078,0.5688762664794922,0.5439749360084534
+What is sublimation?,"A change of state directly from solid to gas without changing into liquid state is called sublimation.
+"," ""Sublimation is when a solid directly changes into gas without becoming liquid."" ",0.6989703178405762,0.7189049124717712,0.7400098443031311
+Why does milk turn sour?,"I don't know
+"," ""Milk turns sour due to bacterial action producing lactic acid  which is a chemical change.""",0.34850412607192993,0.30046015977859497,0.26405778527259827
+How can rusting of iron be prevented?,"Rusting of iron can be prevented by painting, oiling, greasing, galvanizing, chrome plating, anodizing, or making alloys.  Applying a coat of paint or grease regularly also helps.  Depositing a layer of a metal like chromium or zinc on iron creates a protective shield.
+"," ""Rusting can be prevented by painting  greasing  or galvanizing iron surfaces.""  ",0.60611891746521,0.6820569634437561,0.779748260974884
+What happens when a candle burns?,"The wax near the heated wick melts quickly.  The substances which vapourise during burning give flames.  For example, kerosene oil and molten wax rise through the wick and are vapourised during burning and form flames.
+"," ""A candle burning involves both physical (melting) and chemical (combustion) changes."" ",0.43618738651275635,0.4485941529273987,0.4617273807525635
+What happens when sugar dissolves in water?,"The particles of sugar get into the spaces between particles of water.
+"," ""Sugar dissolving in water is a physical change as no new substance is formed."" ",0.5202008485794067,0.49544671177864075,0.47294145822525024
+What happens when magnesium burns?,"Magnesium burns in air with a dazzling white flame, producing magnesium oxide, heat, and light.
+"," ""Magnesium burns with a bright white flame forming magnesium oxide  a chemical change.""",0.6685195565223694,0.6860727071762085,0.7045724391937256
+How does photosynthesis involve chemical change?,API limit exceeded. Please try again later.," ""Photosynthesis converts water and carbon dioxide into glucose and oxygen  forming new substances.""",0.3411058187484741,0.32072919607162476,0.3026498258113861
+What is an example of a reversible change?,"The melting of ice and the subsequent refreezing of water is given as an example of a reversible change.
+"," ""Melting of ice is a reversible physical change as it can refreeze."" ",0.6601362228393555,0.6749458312988281,0.6904351711273193
+What is an example of an irreversible change?,"I don't know.
+"," ""Cooking food is an irreversible chemical change as it cannot return to its raw form."" ",0.35824018716812134,0.3042064607143402,0.26433631777763367
+How can you test for carbon dioxide gas?,"Passing the gas through freshly prepared limewater is a standard test for carbon dioxide.  The limewater will turn milky due to the formation of calcium carbonate.
+"," ""Carbon dioxide turns lime water milky  confirming its presence.""",0.5323488116264343,0.5712317228317261,0.6162422299385071
+Why do we respire?,"To perform functions such as nutrition, transport, excretion, and reproduction, cells need energy.  Respiration releases energy from food to supply this need.
+"," ""Respiration provides energy for cells to perform various functions."" ",0.5544008016586304,0.6212457418441772,0.706419825553894
+What is cellular respiration?,"Cellular respiration is the process of breakdown of food in the cell with the release of energy.  In the cell, food (glucose) is broken down into carbon dioxide and water using oxygen.  When this breakdown occurs with the use of oxygen, it is called aerobic respiration.  Food can also be broken down without using oxygen.
+"," ""It is the process where food is broken down with oxygen to release energy."" ",0.561548113822937,0.6222113370895386,0.6975686550140381
+What is aerobic respiration?,"If the breakdown of glucose occurs with the use of oxygen it is called aerobic respiration.
+"," ""Aerobic respiration is the breakdown of glucose with oxygen to produce energy."" ",0.7137381434440613,0.7113655209541321,0.7090085744857788
+What is anaerobic respiration?,"Anaerobic respiration is the breakdown of food without using oxygen.  In the absence of oxygen, glucose breaks down into alcohol and carbon dioxide.  Our muscle cells can also respire anaerobically, but only for a short time when there is a temporary deficiency of oxygen.
+"," ""It is the process of breaking down food without using oxygen."" ",0.4805634617805481,0.5602768063545227,0.6716939210891724
+Which organisms can survive without oxygen?,"The provided text states that for some organisms, oxygen is toxic.  It also mentions anaerobic organisms, but doesn't specify which ones.
+"," ""Anaerobic organisms like yeast can survive without oxygen."" ",0.49426960945129395,0.5550047159194946,0.6327568888664246
+What is the byproduct of anaerobic respiration in yeast?,"Ethanol and carbon dioxide.
+"," ""Yeast produces alcohol and carbon dioxide during anaerobic respiration."" ",0.7373681664466858,0.6149216890335083,0.5273505449295044
+Why do our muscles feel sore after exercise?,"The partial breakdown of glucose during anaerobic respiration produces lactic acid.  The accumulation of lactic acid causes muscle cramps, which are experienced as muscle soreness.
+"," ""During intense exercise  muscles undergo anaerobic respiration  producing lactic acid.""  ",0.6373345851898193,0.6841884255409241,0.7384778261184692
+How does a hot water bath help relieve muscle cramps?,"Hot water bath or massage improves circulation of blood. As a result the supply of oxygen to the muscle cells increases. The increase in the supply of oxygen results in the complete breakdown of lactic acid into carbon dioxide and water.
+"," ""It improves blood circulation  increasing oxygen supply to break down lactic acid.""",0.5345548987388611,0.596993625164032,0.6759477257728577
+What is inhalation and exhalation?,"Inhalation is taking in air rich in oxygen into the body, and exhalation is giving out air rich in carbon dioxide.
+"," ""Inhalation is taking in oxygen-rich air  and exhalation is releasing carbon dioxide-rich air.""",0.7753753066062927,0.7813446521759033,0.7874065637588501
+Why does breathing rate increase during exercise?,"While we exercise not only do we breathe fast we also take deep breaths and thus inhale more oxygen.  More oxygen is supplied to our cells. It speeds up the breakdown of food and more energy is released.
+"," ""The body needs more oxygen to produce energy quickly  increasing breathing rate.""",0.5233906507492065,0.5488088130950928,0.5768217444419861
+How do fish breathe underwater?,"Fish use gills to breathe underwater.  Gills are projections of the skin that are well supplied with blood vessels.  Fish take in water through their mouths and force it past the gills where the dissolved oxygen is taken up by the blood.
+"," ""Fish use gills to extract dissolved oxygen from water."" ",0.5688783526420593,0.628473162651062,0.7020150423049927
+What is the function of the diaphragm in breathing?,"During inhalation, the diaphragm moves down, increasing the space in the chest cavity and allowing air to rush into the lungs. During exhalation, it moves up to its former position, reducing the size of the chest cavity and pushing air out of the lungs.
+"," ""The diaphragm contracts and relaxes to control air intake and release."" ",0.5227364897727966,0.5794626474380493,0.6499989628791809
+How do insects respire?,"Insects have a network of air tubes called tracheae for gas exchange.  Oxygen-rich air rushes through spiracles (openings on the sides of their bodies) into the tracheal tubes, diffuses into the body tissue, and reaches every cell.  Similarly, carbon dioxide from the cells goes into the tracheal tubes and moves out through the spiracles.
+"," ""Insects breathe through spiracles connected to a network of tracheal tubes."" ",0.5446375012397766,0.6127821207046509,0.7004179358482361
+Why do we sneeze?,"When we inhale particles like smoke, dust, or pollen, they can get past the hair in our nasal cavity and irritate the lining.  This irritation causes us to sneeze, expelling these foreign particles and allowing clean air to enter our body.
+"," ""Sneezing expels unwanted particles like dust from the nasal passage."" ",0.5275062322616577,0.5822343230247498,0.6496328115463257
+How do plants respire?,API limit exceeded. Please try again later.," ""Plants take in oxygen and release carbon dioxide through stomata and roots."" ",0.33573058247566223,0.3183737099170685,0.3027232587337494
+What is the circulatory system?,"The circulatory system is the heart and blood vessels which function to transport substances.
+"," ""The circulatory system consists of the heart and blood vessels that transport substances throughout the body."") ",0.8722118735313416,0.8132117390632629,0.7616879343986511
+What are the components of blood?,"Blood is composed of a fluid called plasma in which different types of cells are suspended.  One type of cell is the red blood cell (RBC), which contains haemoglobin.  The blood also has white blood cells (WBC).
+"," ""Blood consists of plasma  red blood cells (RBCs)  white blood cells (WBCs)  and platelets."") ",0.6020197868347168,0.641410231590271,0.6863162517547607
+Why is blood red?,"The presence of haemoglobin makes blood appear red.
+"," ""Blood is red due to the presence of hemoglobin in red blood cells."") ",0.7580262422561646,0.6918410658836365,0.6362854242324829
+What is the function of RBCs?,"RBCs contain haemoglobin, which binds with oxygen and transports it to all parts of the body and ultimately to all the cells.
+"," ""RBCs transport oxygen from the lungs to different parts of the body."") ",0.567980170249939,0.6034582257270813,0.643663763999939
+What is the function of WBCs?,"I don't know
+"," ""WBCs fight against germs and infections in the body."") ",0.2557476758956909,0.24574048817157745,0.23648694157600403
+What are platelets?,"Platelets are cells that circulate around the body and plug leaks by helping to clot the blood at points of injury.
+"," ""Platelets help in blood clotting to prevent excessive bleeding when injured."") ",0.5626417994499207,0.563782811164856,0.5649285316467285
+What are the different types of blood vessels?,"Arteries, veins, and capillaries.
+"," ""The three types of blood vessels are arteries  veins  and capillaries."")  ",0.6966486573219299,0.61501145362854,0.550500750541687
+What is the function of arteries?,"Arteries carry blood away from the heart to various organs of the body.
+"," ""Arteries carry oxygen-rich blood from the heart to different parts of the body."") ",0.8168113827705383,0.7371059656143188,0.6715730428695679
+What is the function of veins?,"Veins collect blood from different organs and bring it back to the heart.  They have valves that ensure blood flows only in one direction.
+"," ""Veins carry carbon dioxide-rich blood back to the heart."") ",0.5694127082824707,0.5817006826400757,0.5945307016372681
+What is the role of the heart in circulation?,"The heart is a muscular organ that pushes blood around the body through a network of tubes reaching all tissues.  It has different chambers to prevent oxygen-rich blood from mixing with carbon dioxide-rich blood.  The heart pumps oxygen-rich blood from the lungs to the rest of the body and receives carbon dioxide-rich blood to be sent to the lungs.  The rhythmic contraction and relaxation of the heart's muscles maintain blood circulation and transport substances to different body parts.
+"," ""The heart pumps blood throughout the body to transport oxygen and nutrients."") ",0.556703507900238,0.5980062484741211,0.6459288597106934
+Why do doctors use a stethoscope?,"Doctors use a stethoscope to amplify the sound of the heart and get clues about its condition by listening through it.
+"," ""Doctors use a stethoscope to listen to heartbeats and detect heart conditions."") ",0.6871646642684937,0.7054881453514099,0.7248156070709229
+What is transpiration in plants?,"Transpiration is the loss of water in the form of vapor from the aerial parts of a plant.  It helps in the absorption and upward movement of water and minerals dissolved in it from roots.
+"," ""Transpiration is the loss of water vapor from the leaves of plants through stomata."") ",0.6667280197143555,0.6763649582862854,0.686284601688385
+What is xylem in plants?,"The xylem is the vascular tissue in plants that transports water and nutrients from the soil to the entire plant.  It forms a continuous network of channels connecting roots, leaves, stems, and branches.
+"," ""Xylem is a vascular tissue in plants that transports water and minerals from the roots to the leaves."") ",0.7312881946563721,0.7609208822250366,0.7930564880371094
+What is phloem in plants?,"Phloem is a part of the vascular tissue in plants that transports the products of photosynthesis (including amino acids and other substances) from the leaves where they are formed to other parts of the plant, such as storage organs (roots, fruits, seeds) and growing organs.  This transport is called translocation.
+"," ""Phloem is a vascular tissue in plants that transports food from the leaves to other parts of the plant."") ",0.6053062081336975,0.6890649199485779,0.7997264266014099
+How does blood donation help people?,"Blood donation can save lives because there is no substitute for blood, and it is often in short supply.  People who lose blood due to surgery, injury, or inability to produce enough blood need transfusions from donated blood.
+"," ""Blood donation saves lives by providing blood to patients in need during surgeries or accidents."") ",0.5502223372459412,0.5732054710388184,0.5981924533843994
+What is an ecosystem?,"An ecosystem consists of biotic components (living organisms) and abiotic components (physical factors like temperature, rainfall, wind, soil, and minerals).  All interacting organisms in an area, together with the nonliving constituents of the environment, form an ecosystem.  Examples include gardens, forests, ponds, and lakes (natural ecosystems), as well as human-made ecosystems like gardens and crop fields, and aquariums.
+"," ""An ecosystem is a system consisting of biotic and abiotic components that interact with each other."" ",0.5002175569534302,0.5854955911636353,0.7058261036872864
+What are the two main types of ecosystems?,"The text mentions natural ecosystems (forests, ponds, lakes) and human-made artificial ecosystems (gardens, cropfields, aquariums).
+"," ""Natural ecosystems (forests  ponds) and artificial ecosystems (gardens  aquariums).""  ",0.6794108152389526,0.7239431142807007,0.774722695350647
+What are trophic levels in a food chain?,"Each step or level of the food chain forms a trophic level.  Autotrophs (producers) are at the first trophic level. Herbivores (primary consumers) are at the second, small carnivores (secondary consumers) at the third, and larger carnivores (tertiary consumers) form the fourth trophic level.
+"," ""Trophic levels represent the feeding positions in a food chain  such as producers  primary consumers  and secondary consumers."" ",0.5148946642875671,0.5745866298675537,0.6499336957931519
+What is biological magnification?,"Biological magnification is the progressive accumulation of chemicals at each trophic level, with the maximum concentration accumulating in humans at the top of the food chain.
+"," ""The accumulation of harmful chemicals in the food chain  leading to higher concentrations in top predators.""",0.5380651950836182,0.5868583917617798,0.6453834176063538
+Why is the ozone layer important for life on Earth?,"It shields the surface of the earth from ultraviolet (UV) radiation from the Sun.  This radiation is absorbed by ozone.
+"," ""The ozone layer absorbs harmful ultraviolet radiation from the sun  protecting living organisms from radiation exposure.""",0.6604303121566772,0.663090169429779,0.6657715439796448
+What causes ozone layer depletion?,"Synthetic chemicals like chlorofluorocarbons (CFCs), used as refrigerants and in fire extinguishers, are linked to the decrease in ozone.
+"," ""Synthetic chemicals like chlorofluorocarbons (CFCs) break down ozone molecules in the atmosphere."" ",0.6586849093437195,0.7123476266860962,0.7755295634269714
+What is the role of decomposers in an ecosystem?,"The microorganisms comprising bacteria and fungi breakdown the dead remains and waste products of organisms.  These microorganisms are the decomposers as they breakdown the complex organic substances into simple inorganic substances that go into the soil and are used up once more by the plants.
+"," ""Decomposers like bacteria and fungi break down dead organisms and recycle nutrients back into the environment."" ",0.5910164713859558,0.6363545060157776,0.6892264485359192
+Why does a compass needle get deflected near a current-carrying wire?,"When electric current passes through a wire, it behaves like a magnet.  The compass needle, being a tiny magnet, is deflected by the magnetic field produced by the current-carrying wire.
+"," ""A current-carrying wire produces a magnetic field  which interacts with the magnetic field of the compass needle  causing deflection.""  ",0.6593374609947205,0.6905991435050964,0.7249729633331299
+What is Fleming's Left-Hand Rule?,"According to Fleming's left-hand rule, stretch the thumb, forefinger, and middle finger of your left hand such that they are mutually perpendicular.  If the first finger points in the direction of the magnetic field and the second finger in the direction of the current, then the thumb will point in the direction of motion or the force acting on the conductor.
+"," ""If the forefinger points in the direction of the magnetic field  the middle finger in the direction of current  then the thumb indicates the direction of the force on the conductor.""  ",0.6613789200782776,0.7351483702659607,0.8274400234222412
+What is an electromagnet?,"A current-carrying coil of an insulated wire wrapped around a piece of iron is called an electromagnet.  Electromagnets can be made very strong and can lift very heavy loads.  When the electric current is switched off, the coil generally loses its magnetism.
+"," ""A coil of wire wrapped around an iron core that becomes magnetized when electric current flows through it."" ",0.5451163649559021,0.6013712286949158,0.6705729365348816
+What is the Right-Hand Thumb Rule?,"The right-hand thumb rule (also called Maxwell's corkscrew rule) states that if you imagine driving a corkscrew in the direction of the current, the direction of the corkscrew's rotation is the direction of the magnetic field.  If you hold a current-carrying straight conductor in your right hand such that your thumb points towards the direction of the current, your fingers will wrap around the conductor in the direction of the field lines of the magnetic field.
+"," ""If you point your right-hand thumb in the direction of the current  your curled fingers show the direction of the magnetic field around the wire.""",0.6129986643791199,0.6706623435020447,0.7403011918067932
+How does a solenoid produce a magnetic field?,"A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid.  One end of the solenoid behaves as a magnetic north pole while the other behaves as a south pole.  The field lines inside the solenoid are in the form of parallel straight lines, indicating a uniform magnetic field inside.
+"," ""A solenoid is a coil of wire carrying current  which produces a magnetic field similar to that of a bar magnet.""",0.5721299052238464,0.6146622896194458,0.664026141166687
+What are the safety measures used in household electric circuits?,"The provided text mentions electric fuses and earth wires as safety measures.  The earth wire is used especially for appliances with metallic bodies, providing a low-resistance path to ground to prevent shocks.  A fuse prevents damage from overloading or short-circuiting by melting and breaking the circuit.
+"," ""Use of fuses  earthing  circuit breakers  and proper insulation of wires."" ",0.46678611636161804,0.5062709450721741,0.5530529618263245
+What is the significance of biodegradable and non-biodegradable substances?,"Biodegradable substances are broken down by biological processes, while non-biodegradable substances are not.  Non-biodegradable substances may persist in the environment for a long time or harm the ecosystem.
+"," ""Biodegradable substances decompose naturally and do not harm the environment  whereas non-biodegradable substances persist and may cause pollution.""",0.7452122569084167,0.7453394532203674,0.7454667687416077
+What happens to current during a short circuit?,"I don't know
+"," ""During a short circuit  current increases drastically  which can cause overheating and fires.""  ",0.3633096218109131,0.3099927604198456,0.2703220844268799
+What is the magnetic effect of electric current?,"When electric current passes through a wire, it behaves like a magnet.  This is the magnetic effect of electric current.
+"," ""The magnetic effect of electric current refers to the phenomenon where an electric current flowing through a conductor produces a magnetic field around it."" ",0.7043408751487732,0.6987089514732361,0.6931664943695068
+Who discovered the relationship between electricity and magnetism?,"Hans Christian Oersted.
+"," ""Hans Christian Oersted discovered that an electric current can create a magnetic field  leading to the foundation of electromagnetism.""",0.7890182137489319,0.5064988732337952,0.37295645475387573
+What happens when a current flows through a straight conductor?,"A magnetic field is produced around it.  The compass needle deflects.
+"," ""A magnetic field is produced around the conductor  forming concentric circles.""",0.6680555939674377,0.6643177270889282,0.6606214046478271
+What is a magnetic field?,"A magnetic field is a quantity that has both direction and magnitude.  The direction of the magnetic field is taken to be the direction in which a north pole of a compass needle moves inside it.  The lines along which iron filings align themselves represent magnetic field lines.
+"," ""A magnetic field is the region around a magnet where magnetic forces can be detected."" ",0.540504515171051,0.5896835923194885,0.6487076878547668
+What are magnetic field lines?,API limit exceeded. Please try again later.," ""Magnetic field lines are imaginary lines that represent the direction and strength of a magnetic field."" ",0.3009520471096039,0.2951674461364746,0.28960102796554565
+Why do iron filings arrange in a pattern around a magnet?,"The magnet exerts its influence in the region surrounding it.  Therefore the iron filings experience a force. The force thus exerted makes iron filings arrange in a pattern.
+"," ""Iron filings align along the magnetic field lines due to the force exerted by the magnet."" ",0.6534705758094788,0.6606127619743347,0.6679128408432007
+What is the Right-Hand Thumb Rule?,"A convenient way of finding the direction of magnetic field associated with a current-carrying conductor is given in Fig 127.  If you hold a current-carrying straight conductor in your right hand such that the thumb points towards the direction of the current, then your fingers will wrap around the conductor in the direction of the field lines of the magnetic field.  This rule is also called Maxwell's corkscrew rule; if you consider yourself driving a corkscrew in the direction of the current, then the direction of rotation of the corkscrew is the direction of the magnetic field.
+"," ""If you hold a current-carrying conductor in your right hand with the thumb pointing in the direction of current  the curled fingers show the direction of the magnetic field.""",0.6283947229385376,0.6987965106964111,0.7869634032249451
+What is the direction of the magnetic field inside a solenoid?,"The field lines inside the solenoid are in the form of parallel straight lines.  This indicates that the magnetic field is the same at all points inside the solenoid; the field is uniform inside the solenoid.
+"," ""The magnetic field inside a solenoid is uniform and directed along its axis."" ",0.6696139574050903,0.6890756487846375,0.7097024917602539
+How can the strength of a magnetic field in a solenoid be increased?,"I don't know.
+"," ""By increasing the number of turns in the coil  increasing the current  or using a soft iron core.""  ",0.3401724100112915,0.2879044711589813,0.24955937266349792
+What is an electromagnet?,"A current carrying coil of an insulated wire wrapped around a piece of iron is called an electromagnet.  Electromagnets can be made very strong and can lift very heavy loads.  When the electric current is switched off, the coil generally loses its magnetism.
+"," ""An electromagnet is a coil of wire wrapped around an iron core that becomes magnetized when electric current flows through it."" ",0.646901547908783,0.6818230748176575,0.7207299470901489
+What is Fleming's Left-Hand Rule?,"According to Fleming's Left-Hand Rule, stretch the thumb, forefinger, and middle finger of your left hand such that they are mutually perpendicular. If the first finger points in the direction of the magnetic field and the second finger in the direction of the current, then the thumb will point in the direction of motion or the force acting on the conductor.
+"," ""If the forefinger points in the direction of the magnetic field and the middle finger in the direction of current  the thumb indicates the direction of the force on the conductor.""",0.6715612411499023,0.7472628951072693,0.8421996235847473
+How does a solenoid differ from a bar magnet?,"I don't know
+"," ""A solenoid produces a temporary magnetic field  whereas a bar magnet has a permanent magnetic field.""",0.360395610332489,0.3059355318546295,0.2657739520072937
+What is the principle behind an electric motor?,"I don't know
+"," ""An electric motor works on the principle that a current-carrying conductor experiences a force in a magnetic field."" ",0.34002065658569336,0.2873738408088684,0.2488442361354828
+What is electromagnetic induction?,"I don't know
+"," ""Electromagnetic induction is the process of generating an electric current in a conductor by changing the magnetic field around it."" ",0.3496778905391693,0.281623512506485,0.23574310541152954
+What is Fleming's Right-Hand Rule?,"I don't know
+"," ""If the thumb  forefinger  and middle finger of the right hand are perpendicular to each other  with the thumb indicating motion and the forefinger indicating magnetic field  the middle finger gives the direction of induced current.""",0.3591964542865753,0.27415454387664795,0.22167229652404785
+What is the function of a commutator in an electric motor?,"I don't know
+"," ""A commutator reverses the direction of current in the coil  ensuring continuous rotation.""",0.34680384397506714,0.3013783395290375,0.26647457480430603
+Why do power plants generate alternating current (AC)?,"I don't know
+"," ""AC is preferred because it can be transmitted efficiently over long distances with reduced energy loss."" ",0.3610040545463562,0.30969521403312683,0.2711562514305115
+What is the role of a transformer in electrical circuits?,"I don't know
+"," ""A transformer is used to increase or decrease the voltage of alternating current."" ",0.3502291440963745,0.29697751998901367,0.2577822208404541
+What is the function of an electric fuse?,"An electric fuse protects circuits and appliances by stopping the flow of any unduly high electric current.  It does this by melting to break the electric circuit when an excessive current flows.
+"," ""An electric fuse protects circuits by breaking the circuit when excessive current flows through it."" ",0.6991397142410278,0.7481048107147217,0.8044450283050537
+What is a short circuit?,"A short circuit occurs when the live wire and the neutral wire come into direct contact, usually due to damaged insulation or a fault in an appliance.  This causes the current in the circuit to abruptly increase.
+"," ""A short circuit occurs when a low-resistance path allows a large current to flow  potentially causing damage or fire.""",0.5906411409378052,0.6168522238731384,0.6454976797103882
+What is the function of an earth wire in household wiring?,"The earth wire, with green insulation, is connected to a metal plate deep in the earth.  It's a safety measure, especially for appliances with metallic bodies (like toasters or refrigerators).  The metallic body is connected to the earth wire, providing a low-resistance path for current. This ensures that any current leakage keeps the appliance's potential at that of the earth, preventing shocks to the user.
+"," ""The earth wire provides a safe path for excess current  preventing electric shocks.""",0.5129261016845703,0.5950401425361633,0.7084566354751587
+Why does a compass needle get deflected near a current-carrying wire?,"When electric current passes through a wire, it behaves like a magnet.  The compass needle, being a tiny magnet, is deflected by the magnetic field produced by the current-carrying wire.
+"," ""The current-carrying wire produces a magnetic field that interacts with the magnetic field of the compass needle."" ",0.6366146802902222,0.6845402717590332,0.7402692437171936
+What is the difference between a permanent magnet and an electromagnet?,API limit exceeded. Please try again later.," ""A permanent magnet retains its magnetism  while an electromagnet can be turned on and off with electric current.""",0.33850741386413574,0.30923765897750854,0.2846267819404602
+How does an electric generator work?,"I don't know
+"," ""An electric generator converts mechanical energy into electrical energy through electromagnetic induction."" ",0.28971049189567566,0.2689668536186218,0.2509952783584595
+Why is AC power used in households instead of DC?,"I don't know
+"," ""AC can be transmitted efficiently over long distances  and its voltage can be easily modified using transformers.""",0.35502174496650696,0.3130296766757965,0.2799206078052521
+What are the two types of transformers?,"I don't know
+"," ""Step-up transformers increase voltage  while step-down transformers decrease voltage.""",0.333914577960968,0.28979748487472534,0.2559775412082672
+What is meant by the frequency of AC supply?,"I don't know
+"," ""The frequency of AC supply refers to the number of cycles the current completes per second  typically 50 Hz or 60 Hz.""",0.3588806092739105,0.2857813537120819,0.2374216765165329
+What is the main function of a galvanometer?,"I don't know
+"," ""A galvanometer detects and measures small electric currents."" ",0.3488163650035858,0.3089578449726105,0.2772742807865143
+What is the function of circuit breakers in household wiring?,"I don't know
+"," ""Circuit breakers automatically shut off the current flow when excessive current is detected  preventing damage and fire hazards.""",0.34484636783599854,0.2978396415710449,0.26211079955101013
+How does an electric bell work?,"An electric bell contains an electromagnet.  When the circuit is complete, current flows through the coil, making it an electromagnet. This attracts an iron strip with a hammer, causing it to strike the gong.  This action breaks the circuit, stopping the current flow and causing the electromagnet to release the iron strip. The iron strip then returns to its original position, completing the circuit again, and the process repeats, causing the hammer to strike the gong repeatedly.
+"," ""An electric bell uses an electromagnet to attract a metal arm  which strikes a bell to produce sound.""",0.5529665946960449,0.6075658202171326,0.6741284132003784
+What is electric current?,"Electric current is the amount of charge flowing through a particular area in unit time; in other words, it is the rate of flow of electric charges.  In circuits using metallic wires, electrons constitute the flow of charges.
+"," ""Electric current is the flow of electric charge through a conductor."" ",0.6089012622833252,0.6734925508499146,0.7534134387969971
+What is the SI unit of electric current?,"The SI unit of electric current is ampere.
+"," ""The SI unit of electric current is the ampere (A)."" ",0.9105123281478882,0.8169831037521362,0.7408789396286011
+What is an electric circuit?,"Based on the provided text, an electric circuit is shown in Figure 111 and comprises a cell or battery, a plug key, electrical components, and connecting wires.  A schematic diagram can represent it using symbols for the components.
+"," ""An electric circuit is a closed loop through which electric current can flow."" ",0.4487735629081726,0.5092411041259766,0.5885408520698547
+What is the function of a switch in a circuit?,"A switch makes a conducting link between the cell and the bulb.  When the switch is in the ON position, the circuit is closed and current flows. When it's OFF, the circuit is open and no current flows.
+"," ""A switch is used to open or close an electric circuit  controlling the flow of current.""",0.544872522354126,0.5790002346038818,0.6176888346672058
+What is the direction of conventional current?,"I don't know
+"," ""Conventional current flows from the positive terminal to the negative terminal of a power source."" ",0.29447048902511597,0.26993846893310547,0.24917958676815033
+What is Ohm’s law?,"Ohm's law states that the potential difference (V) across the ends of a given metallic wire in an electric circuit is directly proportional to the current (I) flowing through it, provided its temperature remains the same.  This can be expressed as V ∝ I, or V = IR, where R is the resistance.
+"," ""Ohm’s law states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to its resistance."" ",0.5948065519332886,0.6758434176445007,0.7824441194534302
+What is the formula for Ohm’s law?,"V = IR  or  V/I = constant = R
+"," ""Ohm’s law is expressed as V = IR  where V is voltage  I is current  and R is resistance."" ",0.6159796714782715,0.5463932752609253,0.49093326926231384
+What is resistance?,"I don't know.  While the text mentions ""resistance"" multiple times, it doesn't define what resistance is.
+"," ""Resistance is the opposition to the flow of electric current in a conductor."" ",0.4037470817565918,0.4261685311794281,0.4512266218662262
+What is the SI unit of resistance?,"ohm
+"," ""The SI unit of resistance is the ohm (Ω)."" ",0.3903949558734894,0.32500147819519043,0.2783724069595337
+What factors affect the resistance of a conductor?,"The resistance of a conductor depends on its length, its area of cross-section, and the nature of its material.
+"," ""Resistance depends on the material  length  cross-sectional area  and temperature of the conductor."" ",0.6971523761749268,0.7106102108955383,0.7245979309082031
+What is resistivity?,API limit exceeded. Please try again later.," ""Resistivity is a property of a material that determines its resistance per unit length and cross-sectional area."" ",0.3174072504043579,0.307815819978714,0.29878708720207214
+What is the unit of resistivity?,"The SI unit of resistivity is Ωm.
+"," ""The SI unit of resistivity is ohm meter (Ω·m)."" ",0.8797935247421265,0.7824616432189941,0.7045202851295471
+What happens to resistance if the length of a conductor is doubled?,"Based on the provided text, if the length of a wire is doubled and the cross-sectional area remains the same, the resistance is doubled.
+"," ""The resistance doubles because resistance is directly proportional to length."" ",0.5321573615074158,0.5689111948013306,0.6111184358596802
+What happens to resistance if the cross-sectional area of a conductor is doubled?,"The resistance is halved.
+"," ""The resistance is halved because resistance is inversely proportional to cross-sectional area."" ",0.8329881429672241,0.6890425682067871,0.5875160694122314
+What is a series circuit?,"In a series circuit, the current is constant throughout the electric circuit.  A major disadvantage is that when one component fails, the circuit is broken and none of the components work.
+"," ""A series circuit is one in which components are connected end-to-end  so there is only one path for current flow.""",0.5705339908599854,0.5626434683799744,0.5549681782722473
+What is a parallel circuit?,"A parallel circuit divides the current through the electrical gadgets.  The total resistance in a parallel circuit is decreased.
+"," ""A parallel circuit is one in which components are connected across the same voltage source  providing multiple paths for current flow.""",0.6225377917289734,0.585462749004364,0.552555501461029
+What is the total resistance in a series circuit?,"The total resistance (Rs) in a series circuit is equal to the sum of the individual resistances (R1, R2, R3...): Rs = R1 + R2 + R3...
+"," ""The total resistance in a series circuit is the sum of individual resistances: R_total = R1 + R2 + R3 + ..."" ",0.8257673382759094,0.8439436554908752,0.8629382848739624
+What is the total resistance in a parallel circuit?,"The reciprocal of the equivalent resistance of a group of resistances joined in parallel is equal to the sum of the reciprocals of the individual resistances.  This is expressed as: 1/Rp = 1/R1 + 1/R2 + 1/R3 ...
+"," ""The total resistance in a parallel circuit is given by 1/R_total = 1/R1 + 1/R2 + 1/R3 + ..."" ",0.7227120399475098,0.7670763731002808,0.8172436952590942
+What is electrical power?,"The rate at which electric energy is dissipated or consumed in an electric circuit is called electric power (P).  It is given by P = VI, P = I²R, or P = V²/R.  The SI unit is the watt (W), where 1 W = 1 volt × 1 ampere.  A kilowatt (kW) is 1000 watts.
+"," ""Electrical power is the rate at which electrical energy is consumed or produced in a circuit."" ",0.48392587900161743,0.6033676862716675,0.8010920286178589
+What is the formula for electrical power?,"P = VI,  P = I²R,  P = V²/R
+"," ""Electrical power is given by P = VI  where P is power  V is voltage  and I is current."" ",0.5942715406417847,0.5521516799926758,0.5156072378158569
+What is the unit of electrical power?,"The SI unit of electric power is watt (W).
+"," ""The SI unit of electrical power is the watt (W)."" ",0.911282479763031,0.8686135411262512,0.8297615647315979
+What is electrical energy?,"I don't know
+"," ""Electrical energy is the total amount of work done by an electric current over time."" ",0.34759223461151123,0.2911953032016754,0.2505444288253784
+What is the unit of electrical energy?,"The commercial unit of electric energy is kilowatt hour (kW h), also known as a unit.  One watt hour is the energy consumed when 1 watt of power is used for 1 hour.
+"," ""The commercial unit of electrical energy is the kilowatt-hour (kWh)."" ",0.6671550273895264,0.726157009601593,0.7966076135635376
+What is the function of a fuse in an electric circuit?,"A fuse in a circuit prevents damage to the appliances and the circuit due to overloading.  Overloading can occur when the live wire and the neutral wire come into direct contact (due to damaged insulation or a fault in the appliance), causing a short circuit and a sudden increase in current. The Joule heating in the fuse melts it, breaking the circuit and preventing damage.  Overloading can also be caused by a voltage increase or connecting too many appliances to a single socket.
+"," ""A fuse protects electrical circuits by breaking the circuit when excessive current flows through it."" ",0.5132850408554077,0.573239803314209,0.6490530967712402
+What is the heating effect of electric current?,"The heating effect of electric current is the generation of heat in a conductor as an inevitable consequence of electric current flow.  In many cases, this is undesirable, converting useful electrical energy into heat. However, it has many useful applications, such as in electric laundry irons, toasters, ovens, kettles, and heaters.  It's also used to produce light in electric bulbs, where the filament retains heat.
+"," ""The heating effect of electric current states that when current passes through a conductor  it generates heat.""",0.4927394390106201,0.5813412666320801,0.708792507648468
+What is Joule's law of heating?,"Joule's law of heating states that the heat produced in a resistor is (i) directly proportional to the square of the current for a given resistance, (ii) directly proportional to the resistance for a given current, and (iii) directly proportional to the time for which the current flows through the resistor.
+"," ""Joule's law states that heat produced in a conductor is proportional to the square of current  resistance  and time: H = I²Rt.""  ",0.6309117674827576,0.6784296631813049,0.7336882948875427
+What is an electric motor?,"I don't know.
+"," ""An electric motor converts electrical energy into mechanical energy using electromagnetic induction."" ",0.2939555048942566,0.2676279544830322,0.24562868475914001
+What is an electric generator?,"I don't know
+"," ""An electric generator converts mechanical energy into electrical energy using electromagnetic induction."" ",0.28373581171035767,0.2636168599128723,0.24616216123104095
